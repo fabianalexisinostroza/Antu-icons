@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="folder-documents.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,3.42695e-7,286.64994)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient10239"
+       id="linearGradient10241"
+       x1="1.8520881"
+       y1="2.3812332"
+       x2="1.8520881"
+       y2="0.79373336"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10239">
+      <stop
+         style="stop-color:#348be7;stop-opacity:1"
+         offset="0"
+         id="stop10235" />
+      <stop
+         style="stop-color:#3997f1;stop-opacity:1"
+         offset="1"
+         id="stop10237" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,3.42695e-7,286.64994)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient10231"
+       id="linearGradient10233"
+       x1="4.7625046"
+       y1="7.6729002"
+       x2="4.7625046"
+       y2="1.5874833"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10231">
+      <stop
+         style="stop-color:#3e9ff4;stop-opacity:1"
+         offset="0"
+         id="stop10227" />
+      <stop
+         style="stop-color:#50c2f9;stop-opacity:1"
+         offset="1"
+         id="stop10229" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,-4.6249999,-807.2804)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4547"
+       id="linearGradient6079"
+       x1="5.4570312"
+       y1="295.78574"
+       x2="5.4570312"
+       y2="293.93365"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4547"
+       inkscape:collect="always">
+      <stop
+         id="stop4543"
+         offset="0"
+         style="stop-color:#c3f7f9;stop-opacity:1" />
+      <stop
+         id="stop4545"
+         offset="1"
+         style="stop-color:#e5fafb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="21.294103"
+     inkscape:cy="11.275846"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g6719"
+       transform="translate(0,-4.000005)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path13-6-7-64-1-3-02-8-0"
+         d="M 0.99999986,289.64999 H 13 l 3,6 H 31.000001 V 315.65 H 0.99999986 Z"
+         style="fill:url(#linearGradient10241);fill-opacity:1;stroke-width:1.00000012" />
+      <path
+         sodipodi:nodetypes="ssssssssccsccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#3182d9;fill-opacity:1;stroke-width:1.00000012"
+         id="path13-6-3-1-3-0-7-7"
+         d="M 0.99999986,288.65 C 0.44599029,288.65 0,289.09598 0,289.64999 V 315.65 c 0,0.554 0.44599029,0.99999 0.99999986,0.99999 H 31.000001 C 31.55401,316.64999 32,316.204 32,315.65 v -20.00001 c 0,-0.55401 -0.450268,-1.0687 -0.999999,-0.99999 H 17 l -3,-6 z m 0,0.99999 H 13 l 3,6 H 31.000001 V 315.65 H 0.99999986 Z" />
+      <path
+         sodipodi:nodetypes="sssssscsccsccccccc"
+         inkscape:connector-curvature="0"
+         style="fill:#3182d9;fill-opacity:1;stroke-width:1.00000012"
+         id="path13-0-0-9-9-8"
+         d="m 1.0000509,295.64999 c -0.55400958,0 -0.999998364564,0.44602 -0.999999876375,1.00002 L 0,315.65 c -1.5118072e-6,0.554 0.44599029,0.99999 0.99999986,0.99999 H 31.000001 C 31.55401,316.64999 32,316.204 32,315.65 v -23.00001 c 0,0 0,-0.99999 -0.999999,-0.99999 H 15 l -1.999948,4.00003 z m 0,1.00002 H 14.000052 L 16,292.64999 H 31.000001 V 315.65 H 0.99999986 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path13-5-2-9-4-2-6"
+         d="M 1.0000509,296.65001 H 14.000052 L 16,292.64999 H 31.000001 V 315.65 H 0.99999986 Z"
+         style="fill:url(#linearGradient10233);fill-opacity:1;stroke-width:1.00000012"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="sccssssss"
+         inkscape:connector-curvature="0"
+         id="rect6055-9"
+         d="M 12.000001,300.65007 18,300.65 l 3,3 v 8.00005 c 0,0.554 -0.446,1.00002 -1,1.00002 H 12.000001 C 11.446,312.65007 11,312.20405 11,311.65005 v -9.99999 c 0,-0.554 0.446,-0.99999 1.000001,-0.99999 z"
+         style="opacity:1;fill:#358bd9;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sccssssss"
+         inkscape:connector-curvature="0"
+         id="rect6055"
+         d="m 12.000001,299.65005 5.999999,-8e-5 3,3 v 8.00005 c 0,0.55401 -0.446,1.00003 -1,1.00003 H 12.000001 C 11.446,311.65005 11,311.20403 11,310.65002 v -9.99998 c 0,-0.55401 0.446,-0.99999 1.000001,-0.99999 z"
+         style="opacity:1;fill:url(#linearGradient6079);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
