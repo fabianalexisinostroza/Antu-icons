@@ -1,6 +1,6 @@
 # Antü icon Theme
 
-![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/alpha.png)
+![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/antu-lima.png)
 
 ## Welcome to the all new Antü icon theme
 

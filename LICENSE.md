@@ -1,7 +1,6 @@
 L.I.M.A. License
 License for the Integral Maintenance of Artistic work
 
-
 Version 1.0, October 2015.
 Copyright ©, Nitrux S.A.
 
