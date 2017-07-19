@@ -1,8 +1,8 @@
 # Antü icon Theme
 
-![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/05/g8372.png)
+![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/alpha.png)
 
-## This is the new version of Antü icon theme, with new style and some refinements of the original Antü theme.
+## Welcome to the all new Antü icon theme
 
 The icons are licensed under the [L.I.M.A License](https://limalicense.com/getlicense/) 
 
