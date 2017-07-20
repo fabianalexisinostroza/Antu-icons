@@ -3,7 +3,10 @@
 ############## Description of Theme ##############
 
 Name=Antü
-Comment=A simple icon theme for Plasma Desktop
+Name[es]=Antü
+
+Comment=A smooth theme designed for Plasma desktop.
+Comment[es]=Un tema agradable para su escritorio Plasma
 
 ############## Settings ##############
  
