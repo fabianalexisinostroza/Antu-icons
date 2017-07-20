@@ -35,36 +35,6 @@
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="289.69763"
-       x2="41.166668"
-       y1="301.42435"
-       x1="41.325539"
-       id="linearGradient4776"
-       xlink:href="#linearGradient4513"
-       inkscape:collect="always"
-       gradientTransform="matrix(0.76363635,0,0,0.76363635,-3.3494288,67.42636)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="289.69763"
-       x2="32"
-       y1="300.96136"
-       x1="32.043125"
-       id="linearGradient4778"
-       xlink:href="#linearGradient4513"
-       inkscape:collect="always"
-       gradientTransform="matrix(0.76363635,0,0,0.76363635,-3.3494288,67.42636)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="289.69763"
-       x2="22.833334"
-       y1="301.48334"
-       x1="22.833334"
-       id="linearGradient4780"
-       xlink:href="#linearGradient4513"
-       inkscape:collect="always"
-       gradientTransform="matrix(0.76363635,0,0,0.76363635,-3.3494288,67.42636)" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
        y2="18"
        x2="24"
        y1="44"
@@ -117,6 +87,16 @@
          offset="1"
          style="stop-color:#e4e4e4;stop-opacity:1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4513"
+       id="linearGradient4547"
+       x1="24"
+       y1="303.64999"
+       x2="24"
+       y2="296.64999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-266.64999)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -125,9 +105,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="12.949701"
-     inkscape:cy="20.015155"
+     inkscape:zoom="8"
+     inkscape:cx="7.9476013"
+     inkscape:cy="17.108618"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -185,21 +165,14 @@
          d="m 17.086934,264.64999 c -1.108026,0 -2,0.89197 -2,2 v 1 2 h 2 v -3 h 8 v 3 h 2 v -2 -1 c 0,-1.10803 -0.891974,-2 -2,-2 z"
          style="opacity:1;fill:url(#linearGradient4745);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4594">
       <path
-         id="rect4747"
-         d="m 14.086934,280.65 c 1.108,0 1.999999,0.892 1.999999,1.99999 V 296.65 c 0,1.108 -0.891999,1.99999 -1.999999,1.99999 -1.108001,0 -2,-0.89199 -2,-1.99999 v -14.00001 c 0,-1.10799 0.891999,-1.99999 2,-1.99999 z"
-         style="opacity:1;fill:url(#linearGradient4780);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4747-8"
-         d="m 28.086934,280.65 c 1.108,0 2,0.892 2,1.99999 V 296.65 c 0,1.108 -0.892,1.99999 -2,1.99999 -1.108,0 -2,-0.89199 -2,-1.99999 v -14.00001 c 0,-1.10799 0.892,-1.99999 2,-1.99999 z"
-         style="opacity:1;fill:url(#linearGradient4776);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4747-7"
-         d="m 21.086933,280.65 c 1.108,0 2,0.892 2,1.99999 V 296.65 c 0,1.108 -0.892,1.99999 -2,1.99999 -1.108,0 -2,-0.89199 -2,-1.99999 v -14.00001 c 0,-1.10799 0.892,-1.99999 2,-1.99999 z"
-         style="opacity:1;fill:url(#linearGradient4778);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
+         style="opacity:1;fill:url(#linearGradient4547);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 17.5 21 C 16.669 21 16 21.669 16 22.5 L 16 37.5 C 16 38.331 16.669 39 17.5 39 C 18.331 39 19 38.331 19 37.5 L 19 22.5 C 19 21.669 18.331 21 17.5 21 z M 23.5 21 C 22.669 21 22 21.669 22 22.5 L 22 37.5 C 22 38.331 22.669 39 23.5 39 C 24.331 39 25 38.331 25 37.5 L 25 22.5 C 25 21.669 24.331 21 23.5 21 z M 29.5 21 C 28.669 21 28 21.669 28 22.5 L 28 37.5 C 28 38.331 28.669 39 29.5 39 C 30.331 39 31 38.331 31 37.5 L 31 22.5 C 31 21.669 30.331 21 29.5 21 z "
+         transform="translate(0,266.64999)"
+         id="rect4510" />
     </g>
   </g>
 </svg>
