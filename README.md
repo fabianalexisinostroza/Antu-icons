@@ -21,7 +21,7 @@
 
 # Installing the icons
 
-- Move the folder *Antu*  to /home/.local/share/icons (in user mode) or /usr/share/icons (in root mode).
+- Move the folder of icons  to **/home/.local/share/icons** (in user mode) or **/usr/share/icons** (in root mode).
 
 - The icon theme will be in the Setiings for select
 
