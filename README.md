@@ -15,7 +15,7 @@
 
 - If you want the latest release, alternatively click here [**here**](https://github.com/fabianalexisinostroza/antu-icons/releases)
 
-# Warning: Dont use as your default theme
+### Warning: Dont use as your default theme
 
 - If you want to use as default, **set breeze as fallback theme**
 
