@@ -1,4 +1,4 @@
-![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/antu-icons-2017.png)
+![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/08/hola.png)
 
 ## Welcome to the all new Antü icon theme
 
@@ -29,3 +29,5 @@
 # Reporting icons
 
 - At the moment, the reporting isn't neccesary. I know the icons to make for the future updates.
+
+![Antü icons](https://pinguinosyuncafe.files.wordpress.com/2017/08/antu.png)
