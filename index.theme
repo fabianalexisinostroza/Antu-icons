@@ -27,7 +27,7 @@ FollowsColorScheme=true
 
 ############## Fallback Theme ##############
 
-Inherits=
+Inherits=breeze,breeze-dark
 
 ############## Extensions ##############
 
