@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="preferences-desktop-color.svg">
+   sodipodi:docname="preferences-desktop-display-color.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -138,7 +138,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="9.5060799"
+     inkscape:cx="-0.4626701"
      inkscape:cy="17.027411"
      inkscape:document-units="px"
      inkscape:current-layer="g13383"
@@ -186,7 +186,7 @@
       <path
          id="rect4496-7-5"
          d="m -1.8804319,287.9947 c 1.17263352,0 2.11666682,0.94402 2.11666682,2.11665 0,1.17264 -0.9440333,2.11668 -2.11666682,2.11668 -1.1726333,0 -2.1166665,-0.94404 -2.1166665,-2.11668 0,-1.17263 0.9440332,-2.11665 2.1166665,-2.11665 z"
-         style="fill:#d9ad00;fill-opacity:1;stroke:none;stroke-width:0.20738523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ff9a0a;fill-opacity:1;stroke:none;stroke-width:0.20738523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="rect4570-9"
