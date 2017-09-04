@@ -16,11 +16,23 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="applications-other.svg">
+   sodipodi:docname="preferences-other.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient846">
+      <stop
+         style="stop-color:#94a8b2;stop-opacity:1"
+         offset="0"
+         id="stop842" />
+      <stop
+         style="stop-color:#a9c0cc;stop-opacity:1"
+         offset="1"
+         id="stop844" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4846"
@@ -46,25 +58,13 @@
     <linearGradient
        gradientTransform="translate(-19,7)"
        inkscape:collect="always"
-       xlink:href="#linearGradient6375"
+       xlink:href="#linearGradient846"
        id="linearGradient1316"
        x1="16"
-       y1="298.64999"
+       y1="296.64999"
        x2="16"
        y2="289.64999"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient6375"
-       inkscape:collect="always">
-      <stop
-         id="stop6371"
-         offset="0"
-         style="stop-color:#ec0123;stop-opacity:1" />
-      <stop
-         id="stop6373"
-         offset="1"
-         style="stop-color:#ff4762;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        gradientTransform="translate(-19,7)"
        inkscape:collect="always"
@@ -127,9 +127,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="-1.6226371"
-     inkscape:cy="9.8592752"
+     inkscape:zoom="1"
+     inkscape:cx="260.51776"
+     inkscape:cy="133.09601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -180,7 +180,7 @@
       <path
          id="rect1187"
          d="m -7,294.64999 h 8 c 2.77,0 5,2.23 5,5 0,2.77 -2.23,5 -5,5 h -8 c -2.77,0 -5,-2.23 -5,-5 0,-2.77 2.23,-5 5,-5 z"
-         style="opacity:1;fill:#cc0120;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98897059;paint-order:stroke markers fill"
+         style="opacity:1;fill:#7f9099;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98897059;paint-order:stroke markers fill"
          inkscape:connector-curvature="0" />
       <path
          id="rect1189"
@@ -190,7 +190,7 @@
       <path
          id="rect1192"
          d="m -7,296.64999 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 -1.662,0 -3,-1.338 -3,-3 0,-1.662 1.338,-3 3,-3 z"
-         style="opacity:1;fill:#cc0120;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98897059;paint-order:stroke markers fill"
+         style="opacity:1;fill:#7f9099;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98897059;paint-order:stroke markers fill"
          inkscape:connector-curvature="0" />
       <path
          id="rect1194"
