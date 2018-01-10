@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="applications-office.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -93,15 +93,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-227.33411"
-     inkscape:cy="48.311346"
+     inkscape:zoom="11.313708"
+     inkscape:cx="7.9886795"
+     inkscape:cy="12.485343"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
+     inkscape:current-layer="g1933"
+     showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -172,13 +172,13 @@
       <path
          sodipodi:nodetypes="sccccssssssss"
          id="rect843"
-         d="m -14,310.64999 3,-10e-6 v 1.99999 H 9 v -1.99999 l 3,10e-6 c 1.108,0 2,0.892 2,2 v 6 c 0,1.108 -0.892,2 -2,2 h -26 c -1.108,0 -2,-0.892 -2,-2 v -6 c 0,-1.108 0.892,-2 2,-2 z"
-         style="opacity:1;fill:#ffb03e;fill-opacity:1;stroke:none;stroke-width:2.39314151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -14,310.64999 2,-10e-6 1,2 H 9 l 1,-2 2,10e-6 c 1.108,10e-6 2,0.892 2,2 v 6 c 0,1.108 -0.892,2 -2,2 h -26 c -1.108,0 -2,-0.892 -2,-2 v -6 c 0,-1.108 0.892,-2 2,-2 z"
+         style="opacity:1;fill:#ff9a0a;fill-opacity:1;stroke:none;stroke-width:2.39314151;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="sccccsssssscs"
          id="rect843-3"
-         d="m -14,311.64999 2,-10e-6 v 1.99999 h 22 v -1.99999 l 2,10e-6 c 0.553999,0 1,0.446 1,1 v 6 c 0,0.554 -0.446001,1 -1,1 h -26 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,0 0,-1 1,-1 z"
+         d="m -14,311.64999 1,-10e-6 1,2 h 22 l 1,-2 1,10e-6 c 0.553999,10e-6 1,0.446 1,1 v 6 c 0,0.554 -0.446001,1 -1,1 h -26 c -0.554,0 -1,-0.446 -1,-1 v -6 c 0,0 0,-1 1,-1 z"
          style="opacity:1;fill:url(#linearGradient852);fill-opacity:1;stroke:none;stroke-width:2.23359871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
