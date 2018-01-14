@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="calamares.svg">
+   sodipodi:docname="ubiquity.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -65,18 +65,6 @@
        y2="316.64999"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(13,-289.64999)" />
-    <linearGradient
-       id="linearGradient4902"
-       inkscape:collect="always">
-      <stop
-         id="stop4898"
-         offset="0"
-         style="stop-color:#5563b2;stop-opacity:1" />
-      <stop
-         id="stop4900"
-         offset="1"
-         style="stop-color:#7986cb;stop-opacity:1" />
-    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">
@@ -86,13 +74,25 @@
       </style>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4902"
+       xlink:href="#linearGradient4622"
        id="linearGradient1096"
        x1="7"
        y1="321.64999"
        x2="7"
        y2="301.64999"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4622"
+       inkscape:collect="always">
+      <stop
+         id="stop4618"
+         offset="0"
+         style="stop-color:#ff6a3e;stop-opacity:1" />
+      <stop
+         id="stop4620"
+         offset="1"
+         style="stop-color:#ff9065;stop-opacity:1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -102,8 +102,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="5.7917848"
-     inkscape:cy="13.598111"
+     inkscape:cx="-8.2392922"
+     inkscape:cy="17.355624"
      inkscape:document-units="px"
      inkscape:current-layer="g1176"
      showgrid="true"
@@ -177,11 +177,11 @@
         <path
            id="rect937"
            d="m 9,301.64999 c 5.54,0 10,4.46 10,10 v 10e-6 c 0,5.54 -4.46,10 -10,10 -5.54,0 -10,-4.46 -10,-10 v -10e-6 c 0,-5.54 4.46,-10 10,-10 z"
-           style="fill:#4a5599;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="fill:#dd4d25;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            id="rect939"
            d="m 9,302.64999 c 4.986,0 9,4.014 9,9 0,4.986 -4.014,9 -9,9 -4.986,0 -9,-4.014 -9,-9 0,-4.986 4.014,-9 9,-9 z"
-           style="fill:url(#linearGradient1096);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="fill:url(#linearGradient1096);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <g
            inkscape:label="Capa 1"
            id="layer1-8"
@@ -192,7 +192,7 @@
             <path
                id="path7212-4-9"
                d="m -81,297.64993 c 1.108,0 2,0.89201 2,2.00001 v 3 h 1 a 1.0001,1.0001 0 0 1 0.707031,1.70703 l -3,3 a 1.0001,1.0001 0 0 1 -1.414062,0 l -2.999995,-3 a 1.0001,1.0001 0 0 1 0.70703,-1.70703 h 1 v -3 c 0,-1.108 0.892,-2.00001 1.999996,-2.00001 z"
-               style="opacity:1;fill:#4a5599;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
+               style="opacity:1;fill:#dd4d25;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-opacity:1"
                inkscape:connector-curvature="0" />
             <path
                id="path7212-4"
