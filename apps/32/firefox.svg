@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="firefox.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -59,7 +59,7 @@
       <stop
          id="stop4700"
          offset="0"
-         style="stop-color:#ec7900;stop-opacity:1" />
+         style="stop-color:#ff8300;stop-opacity:1" />
       <stop
          id="stop4702"
          offset="1"
@@ -74,14 +74,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="6.3594284"
-     inkscape:cy="13.614815"
+     inkscape:cx="9.3007321"
+     inkscape:cy="14.40245"
      inkscape:document-units="px"
      inkscape:current-layer="g1531"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
