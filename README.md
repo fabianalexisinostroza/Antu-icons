@@ -2,7 +2,7 @@
 
 ## Welcome to the all new Antü icon theme
 
-- The icons are licensed under the [L.I.M.A License](https://limalicense.com/getlicense/) 
+- The icons are licensed under the [CC Attribution, Non Commercial, No Derivatives License](https://creativecommons.org/licenses/by-nc-nd/3.0/cl/legalcode) 
 
 **Consider this repository has a incomplete icon theme. The icons will be added gradually.**
 

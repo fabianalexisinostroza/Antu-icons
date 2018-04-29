@@ -1,122 +1,66 @@
-L.I.M.A. License
-License for the Integral Maintenance of Artistic work
 
-Version 1.0, October 2015.
-Copyright ©, Nitrux S.A.
+                              Creative Commons
+             Atribución - NoComercial - SinDerivadas 3.0 Chile
 
+    CREATIVE COMMONS CORPORATION NO ES UN ESTUDIO DE ABOGADOS, NI OFRECE SERVICIOS LEGALES. LA DISTRIBUCIÓN DE ESTA LICENCIA NO GENERA UNA RELACIÓN ABOGADO-CLIENTE. CREATIVE COMMONS PROPORCIONA ESTA INFORMACIÓN TAL CUAL.
 
-You are permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+    CREATIVE COMMONS NO OFRECE GARANTÍAS SOBRE LA INFORMACIÓN SUMINISTRADA, NI ASUME RESPONSABILIDAD ALGUNA POR LOS DAÑOS QUE PUEDAN DERIVAR DE SU USO. .
 
+Licencia
 
-THIS (“LICENSE” hereinafter, the “L.I.M.A. License” or “License”) is made effective after the (“LICENSOR” hereinafter, “Author”) releases the (“WORK” hereinafter, the “Artistic Work”) in any form or medium.
+LA OBRA (TAL Y COMO SE DEFINE MÁS ADELANTE) SE OTORGA BAJO ESTA LICENCIA PÚBLICA DE CREATIVE COMMONS ("LPCC" O "LICENCIA"). LA OBRA ESTÁ PROTEGIDA POR DERECHOS DE AUTOR Y/U OTRAS LEYES APLICABLES. QUEDA PROHIBIDO CUALQUIER OTRO USO QUE SE HAGA DE LA OBRA QUE NO CUENTE CON LA AUTORIZACIÓN PERTINENTE DE CONFORMIDAD CON LOS TÉRMINOS DE ESTA LICENCIA Y DE LA LEY SOBRE DERECHOS DE AUTOR.
 
+MEDIANTE EL EJERCICIO DE CUALQUIERA DE LOS DERECHOS QUE SE OTORGAN EN ESTA LICENCIA, USTED ACEPTA Y CONSIENTE VERSE OBLIGADO EN LOS TÉRMINOS QUE SE SEÑALAN EN ELLA. EN LA MEDIDA QUE ESTA LICENCIA PUEDA SER CONSIDERADA COMO UN CONTRATO, EL LICENCIANTE LE CONCEDE A USTED LOS DERECHOS CONTENIDOS EN ELLA, CONDICIONADOS A LA ACEPTACIÓN DE SUS TÉRMINOS Y CONDICIONES.
 
-WHEREAS:
+1. Definiciones
 
+    "Adaptación", también llamada "Obra Derivada", es aquella creación basada en la Obra, o basada en la Obra y otras creaciones preexistentes, tales como una traducción, una obra derivada, arreglo musical u otra modificación de una obra literaria o artística, o de un fonograma o interpretación, e incluye las adaptaciones cinematográficas o cualquier otra forma en que la Obra pueda ser transformada o modificada, comprendiendo cualquier forma reconocible derivada de la original, que constituya una creación autónoma , excepto que una obra forme parte de una Colección, en cuyo caso no será considerada una Adaptación para los fines de esta Licencia. Para evitar dudas, cuando la Obra es una creación musical, interpretación o fonograma, la sincronización de ella en cuanto al tiempo en relación con la imagen en movimiento será considerada una Adaptación para los fines de esta Licencia.
+    "Colección" se refiere a aquellas recopilaciones de obras literarias o artísticas, tales como enciclopedias y antologías, o interpretaciones, fonogramas o emisiones, u otras creaciones o materias distintas de las obras enumeradas en la Sección 1(f) siguiente, las que, en razón de la selección y distribución de sus contenidos, constituyan creaciones intelectuales, en los cuales la Obra esté incluida en su totalidad sin modificaciones junto con una o más de otras contribuciones, constituyendo cada una obras separadas e independientes en sí mismas, que al encontrarse juntas están unidas en un todo colectivo. Una obra que constituya una Colección no será considerada una Adaptación (tal como se ha definido anteriormente) para los fines de esta Licencia.
+    "Distribuir" significa poner a disposición del público el original y las copias de la Obra, venta u otra transferencia de dominio o posesión.
+    "Licenciante" es la persona o personas que ofrece(n) la Obra en conformidad con las condiciones de esta Licencia.
+    "Autor Original" se refiere, en el caso de una creación literaria o artística, a la persona o personas que crearon la Obra, o al editor, si no es posible identificar a aquélla(s); y además, para efectos de esta licencia, se entiende por tal autor (i) en el caso de una interpretación los actores, cantantes, músicos, bailarines, y otras personas que actúen, canten, pronuncien, declamen, pongan en escena, interpreten o de otra forma ejecuten obras literarias o artísticas o expresiones del folklore; (ii) en el caso de un fonograma el productor que sea la persona o entidad legal que primero fije los sonidos de una interpretación u otros sonidos; y, (iii) en el caso de las emisiones, la organización que transmita dichas emisiones.
+    "Obra" se refiere a la creación literaria y/o artística ofrecida bajo las condiciones de esta Licencia incluyendo, sin limitación, cualquier producción de los dominios literarios, científicos y artísticos, cualquiera sea su modo o forma de expresión. Se entenderán comprendidas en este concepto las obras de tipo digital, tales como un libro, panfleto y otros escritos; un discurso, sermón u otra obra de la misma naturaleza; una obra dramática o dramático-musical; una obra coreográfica o de entretenimiento en un show de pantomima; una composición musical con o sin palabras; una obra audiovisual, una obra cinematográfica a la que sean asimiladas las creaciones expresadas mediante un proceso análogo a la cinematografía; una obra de dibujo, pintura, arquitectura, escultura, grabado o litografía; una obra fotográfica a las que sean asimiladas las creaciones expresadas mediante un proceso análogo a la fotografía; una creación de arte aplicada; una ilustración, mapa, plan, bosquejo u obra tridimensional relativa a geografía, topografía, arquitectura o ciencia; una representación; una transmisión; un fonograma; una compilación de datos en la medida que esta sea protegida como obra por el derecho de autor; o una obra interpretada por un artista de variedades o circense, en la medida que ésta no sea considerada una obra literaria o artística.
+    "Usted" es la persona que ejercita los derechos otorgados al amparo de esta Licencia y que, con anterioridad, no ha violado las condiciones de la misma respecto a la Obra, o que ha obtenido autorización expresa por parte del Licenciante para ejercer los derechos al amparo de esta Licencia pese a una violación anterior de la misma.
+    "Ejecutar Públicamente" se refiere a efectuar recitaciones en público de la Obra y comunicárselas al público, por cualquier medio o proceso, incluyendo los medios por cable o inalámbricos o las interpretaciones públicas digitales; poner a disposición del público las Obras de tal forma que los miembros de la audiencia puedan acceder a aquéllas desde y en un lugar individualmente escogido por ella; interpretar la Obra al público por cualquier medio o proceso y comunicarle dichas interpretaciones, incluida la interpretación pública digital; transmitir y retransmitir la Obra por cualquier medio incluyendo símbolos, sonidos o imágenes.
+    "Reproducir" significa fijar la Obra por un medio que permita su comunicación y la obtención de copias de todo o parte de ella, por cualquier medio o procedimiento, incluyendo sin limitación grabaciones de sonido y visuales, e incluyendo el almacenamiento de una interpretación o fonograma protegido en un formato digital u otro medio electrónico.
 
-1. (“LICENSEE” hereinafter, “Licensee”) obtains a license to copy, modify, distribute, and/or redistribute the licensed Artistic Work; and
-2. Author is willing to grant a non-exclusive, non-transferable License to use the licensed Artistic Work under the term and specific conditions set forth in this License.
+2. Usos Legítimos. Nada en esta Licencia podrá ser interpretado como una disminución, limitación o restricción de cualquiera de los derechos de usos que se encuentran permitidos por las leyes, tal como las excepciones y limitaciones a los derechos de autor y conexos previstos en la ley u otras legislaciones que resulten aplicables.
 
+3. Otorgamiento de la Licencia. Bajo los términos y condiciones de esta Licencia, el Licenciante le otorga a Usted una licencia mundial, gratuita, no exclusiva y permanente (durante todo el período de vigencia de los derechos de autor) para ejercer derechos sobre la Obra tal y como se indica a continuación:
 
-PREAMBLE
-The intent of this license is to be used for situations where traditional “copyleft” licenses that are meant for machine readable computer code are used for works that are not software. This license is specially focused in arts and is meant to be used for: visual arts, performing arts, media arts, literary arts and culinary arts. It SHOULD NOT be used for anything outside of this scope. L.I.M.A. License wants to provide a way for artistic works to keep their integrity intact while at the same time allowing others to modify and distribute modifications.
+    Reproducir la Obra, incorporarla en una o más Colecciones, y Reproducirla incorporada en las Colecciones; y,
+    Distribuir y Ejecutar Públicamente la Obra incluyendo su incorporación en Colecciones.
 
+Los derechos mencionados anteriormente pueden ser ejercidos en todos los medios y formatos actualmente conocidos o mediante aquellos que se inventen en el futuro. Los derechos antes mencionados incluyen el derecho a realizar dichas modificaciones, en la medida que sean técnicamente necesarias para ejercer los derechos en otros medios o formatos, pero de otra forma usted no tiene derecho para hacer Obras Derivadas. Todos los derechos no otorgados expresamente por el Licenciante quedan reservados, incluyendo pero no limitándose a los derechos establecidos en las Secciones 4(d) y 4(e).
 
-This license is in pro of cultural distribution, mutual collaboration and fairness.
+4. Restricciones. La licencia otorgada en la anterior Sección 3 está expresamente sujeta y limitada por las siguientes restricciones:
 
+    Usted puede Distribuir o Ejecutar Públicamente la Obra sólo bajo las condiciones de esta Licencia. Usted debe incluir una copia de esta Licencia, o del Identificador Universal de Recursos (IUR), con cada copia de la Obra que Usted Distribuya o Ejecute Públicamente. No le es posible ofrecer o imponer ninguna condición sobre la Obra que limite las condiciones de esta Licencia o la capacidad del destinatario de la Obra de ejercer los derechos otorgados bajo los términos de esta Licencia. Usted no puede sublicenciar la Obra. Usted debe mantener intactos todos los avisos que hagan referencia a esta Licencia y a la cláusula de garantías en cada copia de la Obra que Usted Distribuya o Ejecute Públicamente. Usted no puede imponer ninguna medida tecnológica efectiva sobre la Obra que restrinja la capacidad de un destinatario de una Obra entregada por Usted de ejercer los derechos otorgados a dicho destinatario bajo los términos de esta Licencia. Esta Sección 4(a) se aplica a una Obra incorporada en una Colección, pero esto no exige que la Colección en sí, aparte de la Obra, quede sujeta a las condiciones de esta Licencia. Si Usted crea una Colección, previa comunicación del Licenciante, Usted deberá, en la medida de lo posible, quitar de dicha Colección cualquier crédito requerido en la Sección 4(c), según lo que le fuese solicitado.
+    Usted no puede ejercer ninguno de los derechos que le han sido otorgados en la Sección 3 precedente de modo que estén principalmente destinados o directamente dirigidos a conseguir un provecho comercial o una compensación monetaria privada. El intercambio de la Obra por otras obras protegidas por derechos de autor, ya sea a través de un sistema para compartir archivos digitales (digital file-sharing) o de cualquier otra manera no será considerado como destinado principalmente o dirigido directamente a conseguir un provecho comercial o una compensación monetaria privada, siempre que no se realice pago de una compensación monetaria cualquiera en relación con el intercambio de obras protegidas por derechos de autor.
+    Si Usted Distribuye o Ejecuta Públicamente la Obra o Colecciones, Usted debe, a menos que se haya hecho una petición de acuerdo a la Sección 4(a), mantener intactos todos los avisos relativos a derechos de autor para la Obra y consignar, de acuerdo al medio o método que Usted esté utilizando: (i) el nombre del Autor Original (o pseudónimo, en su caso) si fuera facilitado, y/o si el Autor Original y/o Licenciante designa a otra parte o partes (por ejemplo un instituto patrocinante, editorial o publicación ("Grupo de Atribución") en el aviso de derecho de autor del Licenciante, condiciones de servicio u otras circunstancias pertinentes, el nombre de tal parte o partes; (ii) el título de la Obra, si se facilitase; (iii) en la medida de lo posible y de existir, el IUR que el Licenciante especifica para ser vinculado con la Obra, a menos que aquél no se refiera al aviso de derechos del autor o a la información de licenciamiento de la Obra. Los créditos o menciones solicitados por esta Sección 4(c) pueden ser implementados de cualquier forma razonable; Sin embargo, si en una Colección aparecen mencionados los autores que contribuyeron a formarla, como mínimo el crédito de esta Sección 4(c) deberá aparecer incluido como parte de dicha mención y de forma tan destacada como los créditos de quienes han contribuido. Para evitar dudas, Usted sólo puede utilizar los créditos requeridos por esta Sección con la finalidad de realizar la atribución de paternidad o autoría en la forma señalada anteriormente y, para ejercer sus derechos bajo esta Licencia, Usted no puede implícita ni explícitamente afirmar ni sugerir ninguna conexión, patrocinio o respaldo por parte del Autor Original, del Licenciante y/o de los Grupos de Atribución, según corresponda, de Usted o del uso que ha hecho de la Obra, sin la autorización separada, previa y escrita del Autor Original, Licenciante y/o Grupo de Atribución.
+    En caso de dudas:
+        Sistemas de Licencias Obligatorias No Renunciables. En aquellos países en los que la facultad de percibir los derechos a través de un sistema de licenciamiento reglamentario u obligatorio no pueda ser renunciada, el Licenciante se reserva la facultad exclusiva de percibir dichos derechos por cualquier ejercicio, hecho por Usted, de los derechos concedidos por esta Licencia;
+        Sistemas de Licencias Obligatorias Renunciables. En aquellos países en los que la facultad de percibir los derechos a través de un sistema de licenciamiento reglamentario u obligatorio pueda ser renunciada, el Licenciante se reserva la facultad exclusiva de percibir dichos derechos por cualquier ejercicio, hecho por Usted, de los derechos concedidos por esta Licencia si usted ejerce tales derechos para un propósito o uso de alguna otra forma distinta a la no comercial de acuerdo a lo permitido por la Sección 4(b), y que de lo contrario renuncia a la facultad de percibir los derechos a través de un esquema de licenciamiento obligatorio; y,
+        Sistemas de Licencias Voluntarias. El Licenciante se reserva la facultad de percibir los derechos, ya sea individualmente o, en el evento que el Licenciante sea miembro de una sociedad gestora de derechos que administra sistemas de licencias voluntarias, a través de esa sociedad, de cualquier ejercicio que Usted haga de los derechos concedidos bajo esta Licencia, que sea hecho para un propósito distinto del no comercial de acuerdo a lo permitido en la Sección 4(b).
+    Los derechos morales no se verán alterados por esta Licencia en la medida que éstos sean reconocidos, y no considerados renunciables, por el derecho aplicable.
 
-Now, therefore, in consideration of the foregoing, and the mutual promises and undertakings contained herein, and other good valuable consideration, the parties agree as follows:
-1. DEFINITIONS
-   1. “License” means this License Agreement.
-   2. “Author” means the individual(s) or organization(s) directly responsible for the creation of the Artistic Work
-   3. “Licensee” means you, the individual(s) or organization(s) using this collection of files as distributed by the Author and accepting the Author terms and conditions.
-   4. “Artistic Work” means the usable, executable or performable form of the work as distributed or released by the Author.
-   5. “Modified Artistic Work” means derivatives of the Artistic Work created by the Licensee.
-   6. “Integrity” means firm adherence to a code of especially moral or artistic values defined by the Author.
-   7. “Documentation” means any form of support material of the Artistic Work where the Author determines the values and fundamentals of the Artistic Work. This includes but is not limited to: guidelines, wikis, vision statements, branding identity guides, knowledge bases, blogs, websites, notes, photographs, demos and mockups made available by the Author.
-   8. “Sources” means the collection of files and/or prototype(s) used in the creation of the Artistic Work and the Modified Artistic Work.
-   9. “Wealth” means the amount of money, in any currency, in relation to the sale of the Artistic Work and of the Modified Artistic Work.
-   10. “Derivatives” means Modified Artistic Work that has been derived from a Modified Artistic Work made by someone other than the Licensee.
-   11. “Third Parties” means anyone else not directly involved with the Licensee.
+5. Garantía
 
+A MENOS QUE LAS PARTES LO CONVINIERAN DE OTRA FORMA POR ESCRITO, Y HASTA LA MAYOR EXTENSIÓN PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL LICENCIANTE OFRECE LA OBRA "TAL CUAL", SIN BRINDAR GARANTÍAS DE CLASE ALGUNA RESPECTO DE LA OBRA, YA SEA EXPRESA, IMPLÍCITA, LEGAL O CUALQUIERA OTRA, INCLUYENDO, SIN LIMITACIÓN, GARANTÍAS DE TITULARIDAD, COMERCIABILIDAD, ADAPTABILIDAD A PROPÓSITO DETERMINADO, AUSENCIA DE INFRACCIÓN, DE DEFECTOS LATENTES O DE OTRO TIPO, PRECISIÓN O ERRORES, SEAN O NO DESCUBRIBLES. ALGUNOS PAÍSES NO PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, EN CUYO CASO ESTA EXCLUSIÓN PUEDE NO APLICARSE A USTED.
 
-1. LICENSE GRANT
-   1. Author grants to the Licensee a non-exclusive, non-transferable License to use the Artistic Work under the terms and conditions specified as follows:
-      1. Permission to Copy
-         * Licensee is allowed to make verbatim copies of the Artistic Work without restriction.
-      1. Permission to Use
-         * Licensee is allowed to use a verbatim copy of the Artistic Work for any purpose with the exception of using the Artistic Work for uses that can result in the loss of the Integrity as defined by the Author.
-      1. Permission to Modify
-         * Licensee is allowed to modify the Artistic Work for any purpose under the condition of adhering to the Documentation of the Artistic Work.
-      1. Permission to Distribution
-         * Licensee is allowed to provide verbatim copies of the Artistic Work or making it accessible to anyone else.
-   1. Author grants to the Licensee a non-exclusive, non-transferable License for the distribution of Modified Artistic Work under the terms and conditions specified as follows:
-      1. Permission to Distribution of Modified Artistic Work
-         * Licensee is allowed by the Author to distribute modifications of the Artistic Work only if this Modified Artistic Work is in compliance to the Author defined Integrity and adheres to the Documentation of the original Artistic Work.
-            1. Modified Artistic Work by the Licensee is, therefore, subject to, the conditions of copy, use, modification and distribution as the Artistic Work is derived from; and
-            2. Modified Artistic Work that has been derived from a Modified Artistic Work made by someone other than you is herein subject to, the conditions of copy, use, modification and distribution as the Modified Artistic Work is derived from.
-1. LICENSE FEES AND WAIVES
-   1. In consideration for the license grant described in this License, the Author reserves the right to apply or waive a fee for the obtention of the Artistic Work and/or the Sources, therefore, the parties agree as follows:
-      1. if the fee is waived;
-         * the Licensee can obtain the Artistic Work and/or the Sources gratis; and
-         * in the event that the Licensee obtains the Artistic Work and/or the Sources gratis from the Author, in no way will the Author ask for a fee to the Licensee in relation to the obtention of the Artistic Work; and
-         * the Licensee will not be held liable by the Author in any way, for any loss, damage or injury related to the waiving of the fee.
-      1. if the fee is applied:
-         * the Licensee is deemed to make the payment of the fee however it is set by the Author within 24 hours of the obtention of the Artistic Work and/or the Sources given by the Author.
-         * if the Licensee cannot within reasonable time corrected this condition, the Author is in full right to revoke the License granted to the Licensee; and
-         * the Licensee will be held liable by the Author in any way, considered fair, for any loss, damage or injury related to the debt of the fee.
-   1. In consideration for the license grant described in this License, the Author waives any fees to the Licensee and any Third Parties in relation to the copy, use, modification and distribution of the Artistic Work; and
-   2. any fees in relation to the copy, use, modification and distribution of the Modified Artistic Work if it is offered by the Licensee gratis; or
-   3. any fees in relation to the copy, use, modification but not the distribution of the Modified Artistic Work if the it is offered by the Licensee for a fee.
-      1. If the Artistic Work was obtained from the Author gratis by the Licensee, the resulting Modified Artistic Work by the Licensee is, therefore, eligible to be offered gratis or for a fee set by the Licensee in the event that the Author authorizes the Licensee to sell the Modified Artistic Work; or
-      2. if the Artistic Work was obtained by the Licensee after paying a fee to the Author, the resulting Modified Artistic Work by the Licensee is, therefore, eligible to be offered for a fee and not gratis; and 
-      3. any Wealth generated from this shall be fairly distributed with the Author, as stated in Section 5, e.
-   1. Notwithstanding, If your Modified Artistic Work has been derived from a Modified Artistic Work made by someone other than you, you are required to offer your work the same way it was offered to you, either by offering it gratis or for a fee; and
-   2. the Wealth generated by your Modified Artistic Work of a Modified Artistic Work  made by someone other than you, will still be held to the terms and conditions of this License; therefore
-   3. if your Modified Artistic Work has been derived from a Modified Artistic Work made by someone other than you, you agree to the mutual promises and undertakings contained in Section 5.
-1. FAIR USE
-   1. Under the conditions of this License, Fair use of the Artistic Work and its Derivatives by the Licensee and/or Third Parties, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, are not an infringement of this License.
-      1. If such purposes indirectly generate Wealth to the Licensee and/or Third Parties, such as the use of advertisement in blogs, websites and/or printed mediums in relation to the Fair use of the Artistic Work and its Derivatives by the Licensee and/or Third Parties, the Licensee and any Third Parties involved cannot be held liable; and 
-      2. the Author will not in any way, make a claim for any loss, damage or injury related to the indirect generation of Wealth as it is considered, under the conditions of this License, to be Fair use of the Artistic Work and its Derivatives by the Licensee and/or Third Parties.
+6. Limitación de Responsabilidad.
 
+A MENOS QUE LO EXIJA EXPRESAMENTE LA LEY APLICABLE, EL LICENCIANTE NO SERÁ RESPONSABLE ANTE USTED POR DAÑO ALGUNO, SEA POR RESPONSABILIDAD EXTRACONTRACTUAL O CONTRACTUAL, OBJETIVAS O SUBJETIVAS, SE TRATE DE DAÑOS MORALES O PATRIMONIALES, DIRECTOS O INDIRECTOS, PREVISTOS O IMPREVISTOS PRODUCIDOS POR EL USO DE ESTA LICENCIA O DE LA OBRA, AUN CUANDO EL LICENCIANTE HAYA SIDO ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS. ALGUNAS LEYES NO PERMITEN LA EXCLUSIÓN DE CIERTA RESPONSABILIDAD, EN CUYO CASO ESTA EXCLUSIÓN PUEDE NO APLICARSE A USTED.
 
-1. LICENSEE OBLIGATIONS
-   1. Licensee agrees to the terms and conditions specified by this License for use of the Artistic Work.
-   2. Licensee will not distribute Modified Artistic Work under the same name or a name that is a derivative of the Artistic Work original name.
-   3. Licensee will not license or sub-license the Modified Artistic Work.
-   4. Licensee will not sell the Modified Artistic Work without the permission of the Author.
-   5. Licensee agrees to distribute fairly the Wealth generated from the authorized sale of the Modified Artistic Work with the Author.
-   6. Licensee agrees to provide this License and a copyright notice when distributing verbatim copies of the Artistic Work and copies of the Modified Artistic Work to others.
-   7. Licensee agrees to adhere to the Documentation when creating Modified Artistic Work derived from the Artistic Work.
-   8. Licensee agrees to provide the Sources of the Modified Artistic Work on request of the Author.
-   9. Licensee will not publish the Sources of the Artistic Work and neither of the Modified Artistic Work without the permission of the Author if the Modified Artistic Work is be offered for a fee or the Sources were obtained for a fee.
-1. AUTHOR OBLIGATIONS
-   1. Author agrees to not use any technological measures that prevents the Licensee from creating Modified Artistic Work and provide Documentation for the Licensee.
-   2. Author agrees to the distribution of Modified Artistic Work by the Licensee if it adheres to the Documentation and the Integrity is not compromised.
-   3. Author will provide the Sources of the Artistic Work on request of the Licensee.
-   4. Author agrees to include the Modified Artistic Work either in parts or in full in the Artistic Work if it adheres to the Documentation and the Integrity is not compromised.
-   5. Author will mention the Licensee as a collaborator if the Modified Artistic Work is included either in parts or in full in the Artistic Work.
-   6. Author allows the Licensee to sell the Modified Artistic Work if a fair distribution of revenue is presented by the Licensee to the Author.
-   7. Author agrees to distribute fairly the Wealth generated from the sale of the Artistic Work with the Licensee if it contains either in parts or in full Modified Artistic Work by the Licensee.
-   8. Author agrees to not revoke the right of the Licensee to publish the Sources of the Modified Artistic Work and/or the Artistic Work after the initial authorization to the Licensee.
-   9. Author agrees to not revoke this License if the Licensee meets the terms and conditions set forth in this License.
-1. LIMITATION OF LIABILITY
-   1. To the extent permitted by law, the Author will in no way be liable to the Licensee or any Third Parties for any loss or damage, however caused (including through negligence) which may be directly or indirectly suffered in connection with any use of the Artistic Work and/or its Derivatives.
-   2. Artistic Work is provided by the Author on an “as is” basis.
-   3. Author will not be held liable by the License and/or any Third Parties in any way, for any loss, damage or injury suffered by the Licensee or by any other person related to the use and/or misuse of the Artistic Work.
-   4. Licensee acknowledges that:
-      1. The Artistic Work has not been prepared to meet any specific requirements of any party, including any requirements of the Licensee; and
-      2. it is therefore the responsibility of the Licensee to ensure the Artistic Work meets its own requirements.
-1. TERMINATION
-   1. License granted herein is otherwise terminated by the Author in the event of any of the following:
-      1. If the Licensee is in breach of any term of this License and has not corrected such breach to the Author reasonable satisfaction within 7 days of the notice of the same or;
-      2. the Licensee is in breach of Section 5 of this License.
-1. DISCLAIMER
-   1. All rights over and in respect to the Artistic Work are owned by the Author. The Licensee does not acquire any rights of ownership in the Artistic Work; and
-   2. for the differences between the Artistic Work and the Modified Artistic Work, authorship is attributed to the Licensee, while the material sampled or used from the Artistic Work remains attributed to the original Author; appropriate notice must be included with the Modified Artistic Work indicating the nature and the dates of any modifications made by the Licensee; however
-   3. noted the Licensee cannot held Third Parties liable in any way, for any loss, damage or injury in relation to any Derivatives of the Modified Artistic Work by the Licensee as it is not the owner of the Artistic Work but only of the modifications; and
-   4. should instead notify the Author within reasonable time of any breaches of the License.
-1. GENERAL PROVISIONS
-   1. Any use, modification, and distribution of the Artistic Work is governed by the License. By using, modifying or distributing the Artistic Work, you accept this license. Do not use, modify, or distribute the Artistic Work if you do not accept this license.
-   2. If your Modified Artistic Work has been derived from a Modified Artistic Work made by someone other than you, you are nevertheless required to ensure that your Modified Artistic Work is in compliance of this License.
-   3. L.I.M.A. License does not grant you the right to use any trademark, service mark, tradename, or logo without the permission of the Author.
+7. Término
+
+    Esta Licencia y los derechos otorgados en virtud de ella terminarán automáticamente si Usted infringe alguna condición establecida en ella. Sin embargo, los individuos o entidades que han recibido Colecciones de Usted de conformidad con esta Licencia, no verán terminadas sus licencias, siempre que estos individuos o entidades sigan cumpliendo íntegramente las condiciones de estas licencias. Las secciones 1, 2, 5, 6, 7, y 8 subsistirán a cualquier terminación de esta Licencia.
+    Sujeta a las condiciones y términos anteriores, la licencia otorgada aquí es permanente (durante el período de vigencia de los derechos de autor de la obra). No obstante lo anterior, el Licenciante se reserva el derecho a publicar y/o estrenar la Obra bajo condiciones de licencia diferentes o a dejar de distribuirla en los términos de esta Licencia en cualquier momento; sin embargo, cualquiera sea la elección, ella no surtirá efecto retroactivo respecto de la Licencia de este ejemplar de la obra (o cualquier otra Licencia que haya sido otorgada, o le haya sido exigida, bajo los términos de ésta). La Licencia revocada continuará siendo plenamente vigente y efectiva, en relación con los ejemplares de la obra distribuidos con ella, si no se le da término en las condiciones indicadas anteriormente.
+
+8. Varios
+
+    Cada vez que Usted Distribuya o Ejecute Públicamente la Obra o una Colección, el Licenciante ofrecerá al destinatario una licencia en los mismos términos y condiciones que la licencia otorgada a Usted bajo esta Licencia.
+    Si alguna disposición de esta Licencia resulta invalidada o no exigible, según la legislación vigente, esto no afectará ni la validez ni la aplicabilidad del resto de condiciones de esta Licencia y, sin acción adicional por parte de los sujetos de este acuerdo, aquélla se entenderá reformada lo mínimo necesario para hacer que dicha disposición sea válida y exigible.
+    Ningún término o disposición de esta Licencia se estimará renunciada y ninguna infracción de ella será consentida, a menos que esa renuncia o consentimiento sea otorgado por escrito y bajo firma de la parte que renuncia o consiente.
+    Esta Licencia refleja el acuerdo pleno entre las partes respecto a la Obra aquí licenciada. No hay arreglos, acuerdos o declaraciones respecto a la Obra que no estén especificados en este documento. El Licenciante no se verá limitado por ninguna disposición adicional que pueda surgir en alguna comunicación emanada de Usted. Esta Licencia no puede ser modificada sin el consentimiento mutuo y por escrito entre el Licenciante y Usted.
+
