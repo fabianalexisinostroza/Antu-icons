@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="firefox-developer.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -48,10 +48,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1018"
        id="linearGradient991"
-       x1="4.2346697"
-       y1="296.47653"
-       x2="4.2346697"
-       y2="291.4494"
+       x1="3.1763363"
+       y1="295.94736"
+       x2="5.5575862"
+       y2="291.18484"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -74,14 +74,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="8.7371044"
+     inkscape:cx="-5.8469736"
      inkscape:cy="9.0551038"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:window-width="1360"
+     inkscape:window-height="697"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
