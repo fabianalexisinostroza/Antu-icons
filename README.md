@@ -30,4 +30,4 @@
 
 - At the moment, the reporting isn't neccesary. I know the icons to make for the future updates.
 
-![Antü icons](https://cn.pling.com/img/2/1/8/d/bf78d1c2657c3e04ff88bb1fd63d2290af71.png)
+![Antü icons]()
