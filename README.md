@@ -1,4 +1,4 @@
-![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2017/08/hola.png)
+![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2018/06/antc3bc-logo.png)
 
 ## Welcome to the all new Antü icon theme
 
@@ -11,9 +11,9 @@
 - For testing you can clone the repository or download directly. Clone using your terminal.
 
 * In a Terminal run: 
-  * `git clone https://github.com/fabianalexisinostroza/antu-icons.git`
+  * `git clone https://gitlab.com/froodo_alexis/Antu-icons`
 
-- If you want the latest release, alternatively click here [**here**](https://github.com/fabianalexisinostroza/antu-icons/releases)
+- If you want the latest release, alternatively click here [**here**](https://gitlab.com/froodo_alexis/Antu-icons/tags)
 
 ### Warning: Don't use as your default theme
 
