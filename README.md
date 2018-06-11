@@ -2,6 +2,8 @@
 
 ## Welcome to the all new Antü icon theme
 
+### Your support is really appreciated, if you want to make a donation, click [**here**](https://www.paypal.me/fabianalexis)
+
 - The icons are licensed under the [CC Attribution, Non Commercial, No Derivatives License](https://creativecommons.org/licenses/by-nc-nd/3.0/cl/legalcode) 
 
 **Consider this repository has a incomplete icon theme. The icons will be added gradually.**
@@ -15,9 +17,6 @@
 
 - If you want the latest release, alternatively click here [**here**](https://gitlab.com/froodo_alexis/Antu-icons/tags)
 
-### Warning: Don't use as your default theme
-
-- If you want to use as default, **set breeze as fallback theme**
 
 # Installing the icons
 
@@ -28,6 +27,6 @@
 
 # Reporting icons
 
-- At the moment, the reporting isn't neccesary. I know the icons to make for the future updates.
+- If you want to report icons, please, use the issues page on this repository (:.
 
 ![Antü icons](https://pinguinosyuncafe.files.wordpress.com/2018/06/preview.png)
