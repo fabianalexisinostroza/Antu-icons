@@ -4,6 +4,8 @@
 
 ### Your support is really appreciated, if you want to make a donation, click [**here**](https://www.paypal.me/fabianalexis)
 
+### License
+
 - The icons are licensed under the [CC Attribution, Non Commercial, No Derivatives License](https://creativecommons.org/licenses/by-nc-nd/3.0/cl/legalcode) 
 
 **Consider this repository has a incomplete icon theme. The icons will be added gradually.**
