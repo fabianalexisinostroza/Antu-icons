@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,13 +51,13 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="false"
-     inkscape:zoom="4"
-     inkscape:cx="28.12354"
-     inkscape:cy="-13.318635"
+     inkscape:zoom="22.627417"
+     inkscape:cx="15.394242"
+     inkscape:cy="12.59836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2289">
+     inkscape:current-layer="layer1-60-1">
     <inkscape:grid
        type="xygrid"
        id="grid5653" />
@@ -127,6 +127,69 @@
         color:#122036;
       }
       </style>
+    <style
+       id="current-color-scheme-56"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-91"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-9-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-1-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
   </defs>
   <g
      transform="translate(-18,-287.64999)"
@@ -149,21 +212,28 @@
          ry="1" />
       <g
          inkscape:label="Capa 1"
-         id="layer1-60-2"
-         transform="matrix(0,1.6666667,-1.6666667,0,530.41666,245.31665)">
+         id="layer1-60-3"
+         transform="matrix(1.6666667,0,0,-1.6666667,-15.666667,793.06664)">
         <g
-           id="g2289-7"
+           id="g2289-6"
            transform="matrix(0.6,0,0,0.6,9.4,122.46)">
-          <path
-             style="opacity:1;fill:#fe9700;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 45.999998,293.64999 c 0,1.84666 -1.486667,3.33333 -3.333333,3.33333 -1.846667,0 -3.333334,-1.48667 -3.333334,-3.33333 0,-1.84667 1.486667,-3.33334 3.333334,-3.33334 1.846666,0 3.333333,1.48667 3.333333,3.33334 z m -8.333333,0 c 0,1.84666 -1.486666,3.33333 -3.333333,3.33333 l -5,0 -5,0 c -1.846667,0 -3.333333,-1.48667 -3.333333,-3.33333 0,-1.84667 1.486666,-3.33334 3.333333,-3.33334 l 5,0 5,0 c 1.846667,0 3.333333,1.48667 3.333333,3.33334 z"
-             id="rect5924-9"
-             inkscape:connector-curvature="0" />
-          <path
-             style="opacity:1;fill:#714300;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 44.333332,293.64999 c 0,1.84666 -1.486668,3.33333 -3.333333,3.33333 -1.846667,0 -3.333335,-1.48667 -3.333335,-3.33333 0,-1.84667 1.486668,-3.33334 3.333335,-3.33334 1.846665,0 3.333333,1.48667 3.333333,3.33334 z m -8.333333,0 c 0,1.84666 -1.486666,3.33333 -3.333333,3.33333 l -5,0 -5,0 c -1.846667,0 -3.333333,-1.48667 -3.333333,-3.33333 0,-1.84667 1.486666,-3.33334 3.333333,-3.33334 l 5,0 5,0 c 1.846667,0 3.333333,1.48667 3.333333,3.33334 z"
-             id="rect5924-9-3"
-             inkscape:connector-curvature="0" />
+          <g
+             transform="matrix(1.6666667,0,0,1.6666667,-15.666667,-204.10001)"
+             id="layer1-60-1"
+             inkscape:label="Capa 1">
+            <path
+               sodipodi:nodetypes="ssssssscssscss"
+               inkscape:connector-curvature="0"
+               id="rect5924-9-3-2"
+               d="m 28.999999,291.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,3 1.999998,3 1.108002,0 2.000004,-1.892 2.000004,-3 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,5 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,3 0,2 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-2 0,-3 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
+               style="opacity:1;fill:#fe9700;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <path
+               sodipodi:nodetypes="ssssssscssscss"
+               inkscape:connector-curvature="0"
+               id="rect5924-9-6"
+               d="m 28.999996,292.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,5 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,2 0,3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-3 0,-2 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
+               style="opacity:1;fill:#714300;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
         </g>
       </g>
     </g>

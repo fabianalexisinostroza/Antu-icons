@@ -51,13 +51,13 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-midpoints="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="4.1861563"
-     inkscape:cy="10.926424"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="27.769809"
+     inkscape:cy="22.131591"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-60-1">
+     inkscape:current-layer="g2289">
     <inkscape:grid
        type="xygrid"
        id="grid5653" />
@@ -174,14 +174,16 @@
          transform="matrix(1.6666667,0,0,1.6666667,-15.666667,-204.10001)">
         <path
            style="opacity:1;fill:#0e44b2;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 29.000006,291.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,5 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,3 0,3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-3 0,-3 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
+           d="m 29.000006,292.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,4 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,3 0,3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-3 0,-3 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
            id="rect5924-9-3"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssssscssscss" />
         <path
            style="opacity:1;fill:#e5fafb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 29.000006,290.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,5 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,3 0,3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-3 0,-3 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
+           d="m 29.000006,291.64999 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,5 c -1.107996,0 -1.999998,0.892 -1.999998,2 l 0,2 0,3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 l 0,-3 0,-2 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
            id="rect5924-9"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssssscssscss" />
       </g>
     </g>
   </g>
