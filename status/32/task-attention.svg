@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="task-attention.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -42,6 +42,132 @@
          offset="1"
          style="stop-color:#ffe200;stop-opacity:1" />
     </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-2-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-9-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-9-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-1-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,21 +176,29 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="-0.85363019"
-     inkscape:cy="67.815088"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="160.16692"
+     inkscape:cy="24.408013"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer1-60-1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:window-width="1360"
+     inkscape:window-height="697"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -98,15 +232,36 @@
        d="m 2,311.64999 14,-26 14,26 z"
        id="path871"
        inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.97000002;fill:#fe9500;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 16,295.64999 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 z m 0,10 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"
-       id="rect954"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.97000002;fill:#6d4100;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 16,294.64999 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 z m 0,10 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"
-       id="rect954-3"
-       inkscape:connector-curvature="0" />
+    <g
+       transform="matrix(3.7795274,0,0,3.7795272,-26.253044,-795.40507)"
+       id="layer1-3"
+       inkscape:label="Capa 1">
+      <g
+         transform="matrix(0.26458334,0,0,-0.26458336,11.179455,368.12751)"
+         id="layer1-60"
+         inkscape:label="Capa 1">
+        <g
+           transform="matrix(0.6,0,0,0.6,9.4,121.46001)"
+           id="g2289">
+          <g
+             inkscape:label="Capa 1"
+             id="layer1-60-1"
+             transform="matrix(1.6666667,0,0,1.6666667,-15.666667,-202.43335)">
+            <path
+               sodipodi:nodetypes="ssssssscssscss"
+               style="opacity:1;fill:#fe9807;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -1.4779968e-5,285.29288 c -1.107996020032,0 -1.999998020032,0.892 -1.999998020032,2 0,1.108 0.892002,2 1.999998020032,2 1.108001979968,0 2.000003979968,-0.892 2.000003979968,-2 0,-1.108 -0.892002,-2 -2.000003979968,-2 z m 0,6 c -1.107996020032,0 -1.999998020032,0.892 -1.999998020032,2 l 0,3 0,3 c 0,1.108 0.892002,2 1.999998020032,2 1.108001979968,0 2.000003979968,-0.892 2.000003979968,-2 l 0,-3 0,-3 c 0,-1.108 -0.892002,-2 -2.000003979968,-2 z"
+               id="rect5924-9"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:nodetypes="ssssssscssscss"
+               style="opacity:1;fill:#714500;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -1.4779968e-5,286.29288 c -1.107996020032,0 -1.999998020032,0.892 -1.999998020032,2 0,1.108 0.892002,2 1.999998020032,2 1.108001979968,0 2.000003979968,-0.892 2.000003979968,-2 0,-1.108 -0.892002,-2 -2.000003979968,-2 z m 0,6 c -1.107996020032,0 -1.999998020032,0.892 -1.999998020032,2 l 0,3 0,3 c 0,1.108 0.892002,2 1.999998020032,2 1.108001979968,0 2.000003979968,-0.892 2.000003979968,-2 l 0,-3 0,-3 c 0,-1.108 -0.892002,-2 -2.000003979968,-2 z"
+               id="rect5924-9-3"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
