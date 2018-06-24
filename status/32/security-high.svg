@@ -22,7 +22,6 @@
   <defs
      id="defs2">
     <linearGradient
-       gradientTransform="translate(-22,290.64999)"
        gradientUnits="userSpaceOnUse"
        y2="3.9999862"
        x2="16"
@@ -30,7 +29,8 @@
        x1="16"
        id="linearGradient4434"
        xlink:href="#linearGradient979"
-       inkscape:collect="always" />
+       inkscape:collect="always"
+       gradientTransform="translate(-22,290.64999)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient979">
@@ -51,11 +51,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="0.43115142"
-     inkscape:cy="13.13746"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.4597561"
+     inkscape:cy="22.606706"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6468"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
@@ -74,9 +74,10 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="false"
-     inkscape:snap-midpoints="false">
+     inkscape:snap-midpoints="false"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -112,6 +113,11 @@
          style="opacity:1;fill:url(#linearGradient4434);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m -16,294.64999 c -0.553988,0 -1,0.44601 -1,1 l 0,10.5 0,0.5 0,0.5 c 0,6.371 4.906,11.5 11,11.5 6.094,0 11,-5.129 11,-11.5 l 0,-0.5 0,-0.5 0,-10.5 c 0,-0.55399 -0.446012,-1 -1,-1 l -10,0 -10,0 z"
          id="rect4200" />
+      <path
+         style="opacity:1;fill:#91e59b;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 6 4 C 5.4460021 4 5 4.4460021 5 5 L 5 9 L 5 16 L 16 16 L 16 10 L 16 6 L 16 4 L 13 4 L 6 4 z M 16 16 L 16 28 C 17.5235 28 18.972156 27.693828 20.289062 27.138672 C 21.605971 26.583516 22.791031 25.779281 23.785156 24.785156 C 24.779281 23.791031 25.583516 22.605971 26.138672 21.289062 C 26.693828 19.972156 27 18.5235 27 17 L 27 16 L 16 16 z "
+         transform="translate(-22,290.64999)"
+         id="rect4146" />
       <path
          inkscape:connector-curvature="0"
          id="path4146"
