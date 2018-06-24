@@ -15,9 +15,9 @@
 - For testing you can clone the repository or download directly. Clone using your terminal.
 
 * In a Terminal run: 
-  * `git clone https://gitlab.com/froodo_alexis/Antu-icons`
+  * `git clone + URL`
 
-- If you want the latest release, alternatively click here [**here**](https://gitlab.com/froodo_alexis/Antu-icons/tags)
+- If you want the latest release, alternatively can download from KDE Store [**here**](https://store.kde.org/p/1188266/)
 
 
 # Installing the icons
