@@ -12,11 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   viewBox="0 0 8.4666665 8.4666669"
+   viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
    sodipodi:docname="user-online.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
     <linearGradient
@@ -26,293 +28,20 @@
        y1="290.91458"
        x1="9.5249996"
        id="linearGradient4581-2-3"
-       xlink:href="#linearGradient1552"
+       xlink:href="#linearGradient979"
        inkscape:collect="always"
-       gradientTransform="matrix(1.3999999,0,0,1.3999999,-13.429493,-112.57666)" />
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-6"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-3">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5-5">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-2-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-9-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-6-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-9-1"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-1-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-67"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-3">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-53">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-0">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-9-29"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-18">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-79">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-20"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-12"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-3-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-0-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-22">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-127">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-9-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-36">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
+       gradientTransform="matrix(5.291338,0,0,5.2913377,-34.39999,-1226.6775)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient1552">
+       id="linearGradient979">
       <stop
-         style="stop-color:#578e24;stop-opacity:1"
+         style="stop-color:#44c367;stop-opacity:1"
          offset="0"
-         id="stop1548" />
+         id="stop975" />
       <stop
-         style="stop-color:#6eb22e;stop-opacity:1"
+         style="stop-color:#6ce073;stop-opacity:1"
          offset="1"
-         id="stop1550" />
+         id="stop977" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -322,21 +51,36 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="17.909557"
-     inkscape:cy="1.8877122"
+     inkscape:zoom="4"
+     inkscape:cx="-64.640476"
+     inkscape:cy="0.91466187"
      inkscape:document-units="px"
-     inkscape:current-layer="g8367"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
      inkscape:window-height="697"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
     <inkscape:grid
        type="xygrid"
-       id="grid8388" />
+       id="grid7897"
+       empspacing="4" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -346,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Antu icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -354,20 +98,16 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-288.53332)">
-    <g
-       id="g8367"
-       transform="translate(4.3278273,1.7670434)">
-      <path
-         id="rect4496"
-         d="m -0.09449405,287.03087 c 2.19868755,0 3.96875005,1.77002 3.96875005,3.96873 0,2.19867 -1.7700625,3.96875 -3.96875005,3.96875 -2.19868725,0 -3.96874995,-1.77008 -3.96874995,-3.96875 0,-2.19871 1.7700627,-3.96873 3.96874995,-3.96873 z"
-         style="fill:#1e5907;fill-opacity:0.99215686;stroke:none;stroke-width:0.38884729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4570-9-6"
-         d="m -0.09449375,287.29544 c 2.05210815,0 3.70416645,1.65204 3.70416645,3.70416 0,2.05212 -1.6520583,3.70419 -3.70416645,3.70419 -2.05210855,0 -3.70416695,-1.65207 -3.70416695,-3.70419 0,-2.05212 1.6520584,-3.70416 3.70416695,-3.70416 z"
-         style="fill:url(#linearGradient4581-2-3);fill-opacity:1.0;stroke:none;stroke-width:0.37100005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(0,-282.64999)">
+    <path
+       id="rect4496"
+       d="m 16,283.65003 c 8.31,0 15,6.68984 15,14.99992 0,8.30994 -6.69,15 -15,15 -8.3099995,0 -14.9999995,-6.69006 -14.9999995,-15 0,-8.31008 6.69,-14.99992 14.9999995,-14.99992 z"
+       style="fill:#2aa65a;fill-opacity:1;stroke:none;stroke-width:0.38884729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4570-9-6"
+       d="m 16,284.64996 c 7.756,0 14,6.24393 14,13.99997 0,7.75605 -6.244,14.00009 -14,14.00009 -7.7559995,0 -13.9999995,-6.24404 -13.9999995,-14.00009 0,-7.75604 6.244,-13.99997 13.9999995,-13.99997 z"
+       style="fill:url(#linearGradient4581-2-3);fill-opacity:1;stroke:none;stroke-width:0.37100005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

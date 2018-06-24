@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="qtdesigner.svg">
+   sodipodi:docname="qtcreator.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -72,6 +72,13 @@
          offset="1"
          style="stop-color:#6ce073;stop-opacity:1" />
     </linearGradient>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -80,9 +87,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="25.222342"
-     inkscape:cy="11.091915"
+     inkscape:zoom="1"
+     inkscape:cx="90.404136"
+     inkscape:cy="83.736613"
      inkscape:document-units="px"
      inkscape:current-layer="g2369"
      showgrid="true"
@@ -147,32 +154,30 @@
          style="fill:url(#linearGradient1510);fill-opacity:1.0;stroke-width:1.00000012" />
       <path
          id="rect1017"
-         d="m -22,294.64999 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 z m 1,2 1,0 0,1 -1,0 z"
-         style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -21,295.64999 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 0,-1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 z m 1,2 1,0 0,1 -1,0 z"
+         style="opacity:1;fill:#e4fdeb;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
          inkscape:connector-curvature="0" />
       <g
          transform="translate(12,6.59497)"
          id="layer1-6-2"
          inkscape:label="Capa 1"
-         style="fill:#2aa65a;fill-opacity:1">
-        <path
-           style="opacity:0.98000004;fill:#2aa65a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           d="m -20,295.05502 0,5 5,0 0,-5 z m 6,0 0,5 5,0 0,-5 z m -6,7 0,5 5,0 0,-5 z m 6,0 0,5 5,0 0,-5 z"
-           id="rect3215-0-8"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccccccccccccccc" />
-      </g>
+         style="fill:#2aa65a;fill-opacity:1" />
       <g
          transform="translate(12,5.5949737)"
          id="layer1-6"
-         inkscape:label="Capa 1">
-        <path
-           style="opacity:0.98000004;fill:#e8ffee;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           d="m -20,295.05502 0,5 5,0 0,-5 z m 6,0 0,5 5,0 0,-5 z m -6,7 0,5 5,0 0,-5 z m 6,0 0,5 5,0 0,-5 z"
-           id="rect3215-0"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccccccccccccccc" />
-      </g>
+         inkscape:label="Capa 1" />
+      <path
+         id="rect969-5"
+         d="m -9,296.64999 0,2 6,0 0,-2 z m 7,0 0,2 3,0 0,-2 z m 4,0 0,2 2,0 0,-2 z m -11,4 0,2 3,0 0,-2 z m 4,0 0,2 8,0 0,-2 z m -4,4 0,2 5,0 0,-2 z m 6,0 0,2 2,0 0,-2 z m 3,0 0,2 4,0 0,-2 z m -9,4 0,2 2,0 0,-2 z m 3,0 0,2 2,0 0,-2 z m 3,0 0,2 5,0 0,-2 z m -6,4 0,2 6,0 0,-2 z m 7,0 0,2 2,0 0,-2 z m 3,0 0,2 3,0 0,-2 z m -10,4 0,2 3,0 0,-2 z m 4,0 0,2 7,0 0,-2 z"
+         style="fill:#2aa75a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+      <path
+         id="rect969"
+         d="m -9,295.64999 0,2 6,0 0,-2 z m 7,0 0,2 3,0 0,-2 z m 4,0 0,2 2,0 0,-2 z m -11,4 0,2 3,0 0,-2 z m 4,0 0,2 8,0 0,-2 z m -4,4 0,2 5,0 0,-2 z m 6,0 0,2 2,0 0,-2 z m 3,0 0,2 4,0 0,-2 z m -9,4 0,2 2,0 0,-2 z m 3,0 0,2 2,0 0,-2 z m 3,0 0,2 5,0 0,-2 z m -6,4 0,2 6,0 0,-2 z m 7,0 0,2 2,0 0,-2 z m 3,0 0,2 3,0 0,-2 z m -10,4 0,2 3,0 0,-2 z m 4,0 0,2 7,0 0,-2 z"
+         style="fill:#e4fdeb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     </g>
   </g>
 </svg>
