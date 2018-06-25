@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="vivaldi-snapshot.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2126"
+       id="linearGradient4657"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(47.75,-11.625014)"
+       x1="-31.75"
+       y1="324.27499"
+       x2="-31.75"
+       y2="296.27499" />
+    <linearGradient
+       id="linearGradient2126"
+       inkscape:collect="always">
+      <stop
+         id="stop2122"
+         offset="0"
+         style="stop-color:#475057;stop-opacity:1;" />
+      <stop
+         id="stop2124"
+         offset="1"
+         style="stop-color:#5e6a73;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="-0.99307571"
+     inkscape:cy="13.123005"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#343b40;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5,283.64999 22,0 c 2.216,0 4,1.784 4,4 l 0,22 c 0,2.216 -1.784,4 -4,4 l -22,0 c -2.216,0 -4,-1.784 -4,-4 l 0,-22 c 0,-2.216 1.784,-4 4,-4 z"
+       id="rect4556-1-8" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:url(#linearGradient4657);fill-opacity:1.0;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 5,284.64999 22,0 c 1.662,0 3,1.338 3,3 l 0,22 c 0,1.662 -1.338,3 -3,3 l -22,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-22 c 0,-1.662 1.338,-3 3,-3 z"
+       id="rect4556-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#343b40;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 16,285.64999 c -7.201999,0 -13,5.798 -13,13 0,7.202 5.798001,13 13,13 7.201999,0 13,-5.798 13,-13 0,-7.202 -5.798001,-13 -13,-13 z m 0,3 c 5.54,0 10,4.46 10,10 0,5.54 -4.46,10 -10,10 -5.54,0 -10,-4.46 -10,-10 0,-5.54 4.46,-10 10,-10 z"
+       id="rect4198" />
+    <path
+       style="opacity:1;fill:#e7e8ea;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16 4 C 9.352 4 4 9.352 4 16 C 4 22.648 9.352 28 16 28 C 22.648 28 28 22.648 28 16 C 28 9.352 22.648 4 16 4 z M 11 11 C 11.79998 11 12.482381 11.468981 12.802734 12.144531 L 15.386719 15.841797 L 15.402344 15.857422 C 15.605098 16.171062 15.876512 16.431593 16.195312 16.626953 L 16.222656 16.652344 L 16.222656 16.640625 C 16.59712 16.863855 17.030623 17 17.5 17 C 18.119305 17 18.683048 16.77693 19.117188 16.40625 C 20.151196 15.06824 19 14 19 13 C 19 11.892 19.892 11 21 11 C 21.168816 11 21.329938 11.027406 21.486328 11.066406 C 21.542988 11.080406 21.596161 11.098588 21.650391 11.117188 C 21.757502 11.154088 21.859121 11.198383 21.957031 11.251953 C 21.997271 11.274153 22.039801 11.291706 22.078125 11.316406 C 22.208072 11.399706 22.32861 11.497182 22.435547 11.607422 C 22.450787 11.623322 22.461862 11.641903 22.476562 11.658203 C 22.570293 11.761343 22.651996 11.874854 22.722656 11.996094 C 22.738756 12.023794 22.752788 12.051678 22.767578 12.080078 C 22.825188 12.190778 22.871873 12.305964 22.908203 12.427734 C 22.920583 12.468334 22.935512 12.507438 22.945312 12.548828 C 22.978683 12.694148 23 12.84427 23 13 L 23 13.003906 C 23.00004 13.041706 22.990501 13.079308 22.988281 13.117188 C 22.980981 13.242458 22.964687 13.364512 22.935547 13.482422 C 22.923737 13.529222 22.908058 13.574624 22.892578 13.621094 C 22.846398 13.762434 22.787671 13.896124 22.712891 14.021484 C 22.705291 14.034284 22.703192 14.047847 22.695312 14.060547 L 22.669922 14.101562 C 22.666222 14.107562 22.663856 14.114141 22.660156 14.119141 L 22.654297 14.126953 L 17.695312 22.060547 C 16.911638 23.312187 15.088365 23.312187 14.304688 22.060547 L 9.3496094 14.130859 C 9.3408094 14.117959 9.3327188 14.104797 9.3242188 14.091797 L 9.3046875 14.060547 C 9.2982875 14.050447 9.2970856 14.039397 9.2910156 14.029297 C 9.2892156 14.026297 9.2889094 14.022531 9.2871094 14.019531 C 9.2414594 13.942331 9.1932991 13.866703 9.1582031 13.783203 C 9.1341431 13.726503 9.1223556 13.664769 9.1035156 13.605469 C 9.1028156 13.603469 9.1021625 13.601609 9.1015625 13.599609 C 9.0898025 13.562209 9.0758063 13.525911 9.0664062 13.488281 L 9.0664062 13.486328 C 9.0598062 13.459728 9.0484688 13.435203 9.0429688 13.408203 C 9.0158888 13.276443 9 13.14002 9 13 C 9 11.892 9.8919999 11 11 11 z "
+       transform="translate(0,282.64999)"
+       id="path4194" />
+  </g>
+</svg>
