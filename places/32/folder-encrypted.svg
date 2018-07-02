@@ -141,7 +141,7 @@
          style="stop-color:#f3f5f6;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       gradientTransform="translate(5.0000002,291.64999)"
+       gradientTransform="translate(5.0000002,9)"
        gradientUnits="userSpaceOnUse"
        y2="5"
        x2="11"
@@ -158,9 +158,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="21.627946"
-     inkscape:cy="7.6553445"
+     inkscape:zoom="2"
+     inkscape:cx="4.7482032"
+     inkscape:cy="51.574374"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -238,10 +238,9 @@
        d="m 16,296.64999 c -2.216,0 -4,1.78399 -4,4 l 0,0.99999 c -0.554,0 -1,0.44601 -1,1.00001 l 0,6 c 0,0.55399 0.446,1 1,1 l 6,0 0,-1 1,0 0,-1.00001 -1,0 0,-0.99999 1,0 0,-1 1,0 0,-1.00001 -1,0 0,-0.99999 1,0 0,0.99999 1,0 0,-1.99999 c 0,-0.554 -0.446,-1.00001 -1,-1.00001 l 0,-0.99999 c 0,-2.21601 -1.784,-4 -4,-4 z m 4,9 0,1 1,0 0,-1 z m 0,1 -1,0 0,0.99999 1,0 z m 0,0.99999 0,1.00001 1,0 0,-1.00001 z m 0,2.00001 0,-1 -1,0 0,1 z m -4,-11.00001 c 1.108,0 2,0.89201 2,2.00001 l 0,0.99999 -4,0 0,-0.99999 c 0,-1.108 0.892,-2.00001 2,-2.00001 z m 0,4.00001 c 1.108,0 2,0.892 2,1.99999 0,0.74108 -0.404201,1.37906 -1,1.72461 l 0,2.2754 -2,0 0,-2.2754 c -0.595799,-0.34555 -1,-0.98353 -1,-1.72461 0,-1.10799 0.892,-1.99999 2,-1.99999 z"
        style="opacity:1;fill:#223240;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       sodipodi:nodetypes="sscssscccccccccccccccscssccccccccccccccccccccssccssssccccss"
-       inkscape:connector-curvature="0"
-       id="rect4165-0"
-       d="m 16,295.64999 c -2.216,0 -4,1.784 -4,4 l 0,1 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 6,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 0,-1 1,0 0,-1 -1,0 0,-1 1,0 0,1 1,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l 0,-1 c 0,-2.216 -1.784,-4 -4,-4 z m 4,9 0,1 1,0 0,-1 z m 0,1 -1,0 0,1 1,0 z m 0,1 0,1 1,0 0,-1 z m 0,2 0,-1 -1,0 0,1 z m -4,-11 c 1.108,0 2,0.892 2,2 l 0,1 -4,0 0,-1 c 0,-1.108 0.892,-2 2,-2 z m 0,4 c 1.108,0 2,0.892 2,2 0,0.74107 -0.404201,1.37905 -1,1.72461 l 0,2.27539 -2,0 0,-2.27539 c -0.595799,-0.34556 -1,-0.98354 -1,-1.72461 0,-1.108 0.892,-2 2,-2 z"
-       style="opacity:1;fill:url(#linearGradient4239-0);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:url(#linearGradient4239-0);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16 13 C 13.784 13 12 14.784 12 17 L 12 18 C 11.446 18 11 18.446 11 19 L 11 25 C 11 25.554 11.446 26 12 26 L 18 26 L 18 25 L 19 25 L 19 24 L 18 24 L 18 23 L 19 23 L 19 22 L 20 22 L 20 21 L 21 21 L 21 19 C 21 18.446 20.554 18 20 18 L 20 17 C 20 14.784 18.216 13 16 13 z M 20 22 L 20 23 L 21 23 L 21 22 L 20 22 z M 20 23 L 19 23 L 19 24 L 20 24 L 20 23 z M 20 24 L 20 25 L 21 25 L 21 24 L 20 24 z M 20 25 L 19 25 L 19 26 L 20 26 L 20 25 z M 16 15 C 17.108 15 18 15.892 18 17 L 18 18 L 14 18 L 14 17 C 14 15.892 14.892 15 16 15 z M 16 19 C 17.108 19 18 19.892 18 21 C 18 21.74107 17.595799 22.379049 17 22.724609 L 17 25 L 15 25 L 15 22.724609 C 14.404201 22.379049 14 21.74107 14 21 C 14 19.892 14.892 19 16 19 z "
+       transform="translate(0,282.64999)"
+       id="rect4165-0" />
   </g>
 </svg>
