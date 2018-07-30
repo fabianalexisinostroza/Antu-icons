@@ -15,8 +15,8 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="drive-hardisk.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="drive-harddisk.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -28,28 +28,6 @@
         color:#122036;
       }
       </style>
-    <linearGradient
-       gradientTransform="translate(57.000003,96.000003)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient4902"
-       id="linearGradient1036"
-       x1="3"
-       y1="318.96497"
-       x2="3"
-       y2="317.64999"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4902">
-      <stop
-         style="stop-color:#0d72ec;stop-opacity:1"
-         offset="0"
-         id="stop4898" />
-      <stop
-         style="stop-color:#36b2fb;stop-opacity:1"
-         offset="1"
-         id="stop4900" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient923"
@@ -94,6 +72,48 @@
          offset="1"
          id="stop912" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4627">
+      <stop
+         style="stop-color:#ffc900;stop-opacity:1"
+         offset="0"
+         id="stop4623" />
+      <stop
+         style="stop-color:#ffe200;stop-opacity:1"
+         offset="1"
+         id="stop4625" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4627"
+       id="linearGradient928"
+       x1="16"
+       y1="30"
+       x2="16"
+       y2="29"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4619"
+       inkscape:collect="always">
+      <stop
+         id="stop4615"
+         offset="0"
+         style="stop-color:#67d924;stop-opacity:1" />
+      <stop
+         id="stop4617"
+         offset="1"
+         style="stop-color:#a3eb1e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4619"
+       id="linearGradient1004"
+       x1="13"
+       y1="318.64999"
+       x2="13"
+       y2="317.64999"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -103,16 +123,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="27.084608"
-     inkscape:cy="7.5844961"
+     inkscape:cx="12.478"
+     inkscape:cy="11.674485"
      inkscape:document-units="px"
      inkscape:current-layer="g1176"
-     showgrid="false"
+     showgrid="true"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:window-width="1360"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -160,11 +180,10 @@
                d="m -9,311.64999 h 24 c 1.108,0 2,0.892 2,2 v 5 c 0,1.108 -0.892,2 -2,2 H -9 c -1.108,0 -2,-0.892 -2,-2 v -5 c 0,-1.108 0.892,-2 2,-2 z"
                id="rect842" />
             <path
-               id="path1024"
-               transform="translate(-13,289.64999)"
-               d="m 4,23 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 24 c 0.554,0 1,-0.446 1,-1 v -5 c 0,-0.554 -0.446,-1 -1,-1 z"
                style="fill:url(#linearGradient925);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               inkscape:connector-curvature="0" />
+               d="M 4 23 C 3.446 23 3 23.446 3 24 L 3 29 C 3 29.554 3.446 30 4 30 L 5 30 L 5 28 L 24 28 L 24 30 L 28 30 C 28.554 30 29 29.554 29 29 L 29 24 C 29 23.446 28.554 23 28 23 L 4 23 z "
+               id="path1024"
+               transform="translate(-13,289.64999)" />
             <path
                inkscape:connector-curvature="0"
                style="fill:#a5a6a6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -178,11 +197,6 @@
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="sssssssssssssssssssssssssssssssssssssss" />
           </g>
-          <path
-             id="rect1028"
-             d="m 52.500001,413.64999 h 15.000004 c 0.276999,0 0.499998,0.223 0.499998,0.5 0,0.277 -0.222999,0.5 -0.499998,0.5 H 52.500001 c -0.276999,0 -0.499998,-0.223 -0.499998,-0.5 0,-0.277 0.222999,-0.5 0.499998,-0.5 z"
-             style="opacity:0.98000004;fill:url(#linearGradient1036);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             inkscape:connector-curvature="0" />
           <path
              id="rect1082"
              d="m 52.000003,390.64999 h 12 v 5 h -12 z"
@@ -209,6 +223,15 @@
              style="opacity:0.98000004;fill:#fdffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              inkscape:connector-curvature="0" />
         </g>
+        <path
+           style="opacity:1;fill:url(#linearGradient928);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 6 29 L 6 30 L 8 30 L 8 29 L 6 29 z M 9 29 L 9 30 L 11 30 L 11 29 L 9 29 z M 12 29 L 12 30 L 14 30 L 14 29 L 12 29 z M 15 29 L 15 30 L 17 30 L 17 29 L 15 29 z M 18 29 L 18 30 L 20 30 L 20 29 L 18 29 z M 21 29 L 21 30 L 23 30 L 23 29 L 21 29 z "
+           transform="translate(-13,289.64999)"
+           id="rect848" />
+        <path
+           style="opacity:1;fill:url(#linearGradient1004);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 12,317.64999 h 2 v 1 h -2 z"
+           id="rect875" />
       </g>
     </g>
   </g>
