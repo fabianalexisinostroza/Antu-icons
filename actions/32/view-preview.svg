@@ -209,9 +209,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="56.911799"
-     inkscape:cy="3.1495949"
+     inkscape:zoom="16"
+     inkscape:cx="20.825737"
+     inkscape:cy="17.103501"
      inkscape:document-units="px"
      inkscape:current-layer="g3016"
      showgrid="true"
@@ -291,7 +291,7 @@
          inkscape:connector-curvature="0" />
       <path
          id="rect8706-3"
-         d="m -14,303.64999 h 4e-6 c 1.661999,0 2.999998,1.338 2.999998,3 0,1.66201 -1.337999,3 -2.999998,3 H -14 c -1.661999,0 -2.999998,-1.33799 -2.999998,-3 0,-1.662 1.337999,-3 2.999998,-3 z"
+         d="m -2,303.64999 h 4e-6 c 1.661999,0 2.999998,1.338 2.999998,3 0,1.66201 -1.337999,3 -2.999998,3 H -2 c -1.661999,0 -2.999998,-1.33799 -2.999998,-3 0,-1.662 1.337999,-3 2.999998,-3 z"
          style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.72248804;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
          inkscape:connector-curvature="0" />
     </g>
