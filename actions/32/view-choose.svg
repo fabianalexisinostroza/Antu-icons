@@ -21,43 +21,16 @@
      id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4846"
        id="linearGradient4759-6"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7795275,0,0,3.7795275,-26,287.64994)"
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,-52,286.64994)"
        x1="4.7625003"
        y1="7.6729302"
        x2="4.7625003"
        y2="2.3812633" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="294.64999"
-       x2="-7"
-       y1="314.64999"
-       x1="-7"
-       id="linearGradient2120"
-       xlink:href="#linearGradient4846"
-       inkscape:collect="always"
-       gradientTransform="translate(-15,2)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4506"
-       id="linearGradient944"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-15,2)"
-       x1="-3"
-       y1="293.64999"
-       x2="-3"
-       y2="288.64999" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4846">
@@ -70,174 +43,26 @@
          offset="1"
          id="stop4844" />
     </linearGradient>
-    <style
-       type="text/css"
-       id="current-color-scheme-8">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-0"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-75">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-3-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-7-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-0-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-9-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-18"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1-79"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10-20">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-12">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-3"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-0-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-22"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="294.64999"
+       x2="-7"
+       y1="314.64999"
+       x1="-7"
+       id="linearGradient2120"
+       xlink:href="#linearGradient4846"
+       inkscape:collect="always"
+       gradientTransform="translate(-41,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4506"
+       id="linearGradient944"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-41,1)"
+       x1="-3"
+       y1="293.64999"
+       x2="-3"
+       y2="288.64999" />
     <linearGradient
        id="linearGradient4506"
        inkscape:collect="always">
@@ -250,76 +75,6 @@
          offset="1"
          style="stop-color:#353d4b;stop-opacity:1" />
     </linearGradient>
-    <style
-       id="current-color-scheme-759"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-54"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-7-7"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-9">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-1-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-10-5"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-6">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7-1">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5-2">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -328,11 +83,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="30.078671"
-     inkscape:cy="18.23769"
+     inkscape:zoom="15.839192"
+     inkscape:cx="9.2674599"
+     inkscape:cy="12.926623"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1562"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
@@ -342,7 +97,14 @@
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -366,70 +128,60 @@
      id="layer1"
      transform="translate(0,-282.64999)">
     <g
-       id="layer1-0"
-       inkscape:label="Capa 1">
-      <g
-         transform="translate(26,-5)"
-         id="g2924-9">
-        <path
-           id="path12329-3"
-           d="m -25,289.64999 c -0.55401,0 -1,0.446 -1,1 v 26 c 0,0.554 0.44599,1 1,1 H 5 c 0.55401,0 1,-0.446 1,-1 v -26 c 0,-0.554 -0.44599,-1 -1,-1 h -14 -3 z"
-           style="fill:#90a4ae;fill-opacity:1;stroke-width:1.00000012"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cccccccccccc"
-           inkscape:connector-curvature="0"
-           id="path13-5-2-9-4-2-6-6-6"
-           d="m -25,290.64999 v 5 H 5 v -5 h -15 -2 z m 0,6 v 20 H 5 v -20 z"
-           style="fill:url(#linearGradient4759-6);fill-opacity:1;stroke-width:1.00000012" />
-        <path
-           id="rect1191-0"
-           d="m -25,289.64999 c -0.554,0 -1,0.446 -1,1 v 5 1 h 1 30 1 v -1 -5 c 0,-0.554 -0.446,-1 -1,-1 z"
-           style="opacity:1;fill:#1f1f26;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           id="rect4537-2-6"
-           d="m -25,290.64999 v 5 H 5 v -5 z"
-           style="fill:url(#linearGradient944);fill-opacity:1.0;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="ccssccccccccccc"
-           inkscape:connector-curvature="0"
-           id="rect860"
-           d="m -26,296.64999 v 19 1 c 0,0.554 0.446,1 1,1 h 5 5 1 v -1 -1 -19 h -1 v 18 h -10 v -18 z"
-           style="opacity:1;fill:#90a4ae;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
-        <path
-           id="rect858"
-           d="m -25,296.64999 h 10 v 20 h -10 z"
-           style="opacity:1;fill:url(#linearGradient2120);fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-      </g>
+       id="g1562"
+       transform="translate(52,-4)">
+      <path
+         style="fill:#90a4ae;fill-opacity:1;stroke-width:1.00000012"
+         d="M 1 2 C 0.44599 2 0 2.446 0 3 L 0 9 L 0 28 L 0 29 C 0 29.554 0.44599 30 1 30 L 12 30 L 31 30 C 31.55401 30 32 29.554 32 29 L 32 3 C 32 2.446 31.55401 2 31 2 L 17 2 L 14 2 L 1 2 z "
+         transform="translate(-52,286.64999)"
+         id="path12329-3" />
+      <path
+         style="fill:url(#linearGradient4759-6);fill-opacity:1;stroke-width:1.00000012"
+         d="m -40,289.64999 v 5 h 19 v -5 h -4 -2 z m 0,6 v 20 h 19 v -20 z"
+         id="path13-5-2-9-4-2-6-6-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#1f1f26;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -51,288.64999 c -0.554,0 -1,0.446 -1,1 v 5 1 h 1 30 1 v -1 -5 c 0,-0.554 -0.446,-1 -1,-1 z"
+         id="rect1191-0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient944);fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -51,289.64999 v 5 h 30 v -5 z"
+         id="rect4537-2-6"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:url(#linearGradient2120);fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         d="m -51,295.64999 h 10 v 20 h -10 z"
+         id="rect858" />
+      <path
+         sodipodi:nodetypes="sccssssssss"
+         inkscape:connector-curvature="0"
+         id="rect1104"
+         d="M -49.000004,297.64999 H -47 l 1,1 h 3.000004 c 0.553998,0 0.999996,0.446 0.999996,1 V 303.65 c 0,0.554 -0.445998,0.99999 -0.999996,0.99999 h -6.000008 C -49.554002,304.64999 -50,304.204 -50,303.65 v -5.00001 c 0,-0.554 0.445998,-1 0.999996,-1 z"
+         style="opacity:1;fill:#0c63cc;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sccssssssss"
+         inkscape:connector-curvature="0"
+         id="rect1104-8"
+         d="M -49.000004,306.64999 H -47 l 1,1 h 3.000004 c 0.553998,0 0.999996,0.446 0.999996,1 V 312.65 c 0,0.554 -0.445998,0.99999 -0.999996,0.99999 h -6.000008 C -49.554002,313.64999 -50,313.204 -50,312.65 v -5.00001 c 0,-0.554 0.445998,-1 0.999996,-1 z"
+         style="opacity:1;fill:#223240;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1122"
+         d="m -49,309.64999 h 2 l 1,-1 h 3 v 4 h -6 z"
+         style="opacity:1;fill:#637d8a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1122-9"
+         d="m -49,300.64999 h 2 l 1,-1 h 3 v 4 h -6 z"
+         style="opacity:1;fill:#33acfa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <path
-       style="opacity:1;fill:#145cd8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.9999961,293.64999 H 5 l 1,1 h 3.0000039 c 0.5539978,0 0.9999961,0.446 0.9999961,1 V 299.65 c 0,0.554 -0.4459983,0.99999 -0.9999961,0.99999 H 2.9999961 C 2.4459983,300.64999 2,300.204 2,299.65 v -5.00001 c 0,-0.554 0.4459983,-1 0.9999961,-1 z"
-       id="rect1104"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccssssssss" />
-    <path
-       style="opacity:1;fill:#223240;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.9999961,302.64999 H 5 l 1,1 h 3.0000039 c 0.5539978,0 0.9999961,0.446 0.9999961,1 V 308.65 c 0,0.554 -0.4459983,0.99999 -0.9999961,0.99999 H 2.9999961 C 2.4459983,309.64999 2,309.204 2,308.65 v -5.00001 c 0,-0.554 0.4459983,-1 0.9999961,-1 z"
-       id="rect1104-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccssssssss" />
-    <path
-       style="opacity:1;fill:#637d8a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3,305.64999 h 2 l 1,-1 h 3 v 4 H 3 Z"
-       id="rect1122"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       style="opacity:1;fill:#5694fb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3,296.64999 h 2 l 1,-1 h 3 v 4 H 3 Z"
-       id="rect1122-9"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
