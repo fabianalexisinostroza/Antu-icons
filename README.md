@@ -6,7 +6,7 @@
 
 ### License
 
-- The icons are licensed under the [CC Attribution, Non Commercial, No Derivatives License](https://creativecommons.org/licenses/by-nc-nd/3.0/cl/legalcode) 
+- The icons are licensed under the [CC Attribution, ShareAlike License](https://creativecommons.org/licenses/by-nc-sa/3.0/cl/legalcode) 
 
 **Consider this repository has a incomplete icon theme. The icons will be added gradually.**
 

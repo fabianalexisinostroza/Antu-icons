@@ -1,7 +1,7 @@
-<svg 
+<svg
     height="22"
-    viewBox="0 0 22 22" 
-    width="22"
+    viewBox="0 0 22 22"
+    width="22" 
     xmlns="http://www.w3.org/2000/svg">
     <defs id="defs2">
     <style
@@ -13,9 +13,7 @@
       </style>
     </defs>
     <path 
-        d="m3.125 294.17916c-.621 0-1.125.51167-1.125 1.14259v13.71485c0 .63149.504 1.14255 1.125 1.14255h15.75c.621 0 1.125-.51167 1.125-1.14255v-11.69923c0-.63153-.504-1.15821-1.125-1.15821h-8.875l-2-2-2-.00002z"
-        fill="currentColor"
-        transform="translate(0 -291.17915)"
+        d="m3 2c-.554 0-1 .446-1 1v16c0 .554.446 1 1 1h16c.554 0 1-.446 1-1v-16c0-.554-.446-1-1-1zm1 5h14v11h-14zm3 4v3h8v-3z" fill="currentColor"
         style="fill:currentColor;fill-opacity:1;stroke:none"
         class="ColorScheme-Text"/>
 </svg>
