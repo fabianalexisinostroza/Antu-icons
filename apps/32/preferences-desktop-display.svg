@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="preferences-desktop-display.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -140,16 +140,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="10.482786"
+     inkscape:cx="-0.060681116"
      inkscape:cy="17.406585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-width="1360"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -181,7 +181,7 @@
        transform="translate(18.000002,-6)">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#8c8c8c;fill-opacity:1;stroke-width:0.99999994"
+         style="fill:#73818c;fill-opacity:1;stroke-width:0.99999994"
          d="m -6.0000013,312.64997 v 3.99999 h -2.0000005 c -0.5540062,0 -0.9999999,0.44598 -0.9999999,0.99998 v 1.00003 c 0,0.554 0.4459937,0.99999 0.9999999,0.99999 H 2.9999977 c 0.554006,0 1,-0.44599 1,-0.99999 v -1.00003 c 0,-0.554 -0.445994,-0.99998 -1,-0.99998 H 0.99999774 v -3.99999 z"
          id="rect14071" />
       <path

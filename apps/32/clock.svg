@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="clock.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -73,17 +73,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-94.707686"
-     inkscape:cy="180.41803"
+     inkscape:zoom="16"
+     inkscape:cx="17.315994"
+     inkscape:cy="14.697391"
      inkscape:document-units="px"
      inkscape:current-layer="g6308"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="697"
+     inkscape:window-width="1360"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -130,7 +130,7 @@
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3cccc;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-         d="m 16,289.64999 c -0.554,0 -1,0.446 -1,1 v 6.18164 c -1.164689,0.41156 -2,1.50928 -2,2.81836 0,1.30909 0.835311,2.4068 2,2.81836 v 5.36328 c 0,0.55401 0.446,1 1,1 0.554,0 1,-0.44599 1,-1 v -5.35742 c 0.848629,-0.30177 1.517526,-0.9729 1.818359,-1.82422 H 23 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 H 18.818359 C 18.517751,297.7993 17.850699,297.13226 17,296.83163 v -6.18164 c 0,-0.554 -0.445999,-1 -1,-1 z m 0,8 c 0.554001,0 1,0.446 1,1 0,0.554 -0.445999,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
+         d="m 16,289.46835 c -0.554,0 -1,0.446 -1,1 v 6.18164 c -1.164689,0.41156 -2,1.50928 -2,2.81836 0,1.30909 0.835311,2.4068 2,2.81836 v 5.36328 c 0,0.55401 0.446,1 1,1 0.554,0 1,-0.44599 1,-1 v -5.35742 c 0.848629,-0.30177 1.517526,-0.9729 1.818359,-1.82422 H 23 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 H 18.818359 C 18.517751,297.61766 17.850699,296.95062 17,296.64999 v -6.18164 c 0,-0.554 -0.445999,-1 -1,-1 z m 0,8 c 0.554001,0 1,0.446 1,1 0,0.554 -0.445999,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
          id="rect5668-9"
          sodipodi:nodetypes="sscscsssccsssccsssssss" />
       <path

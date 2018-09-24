@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="application-epub+zip.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -24,25 +24,60 @@
     <linearGradient
        gradientTransform="matrix(3.7795275,0,0,3.7795275,105.53658,-733.17985)"
        inkscape:collect="always"
-       xlink:href="#linearGradient4331"
+       xlink:href="#linearGradient825"
        id="linearGradient837"
        x1="4.2333336"
        y1="296.20624"
        x2="4.2333336"
        y2="289.59164"
        gradientUnits="userSpaceOnUse" />
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
     <linearGradient
-       id="linearGradient4331"
+       id="linearGradient825"
        inkscape:collect="always">
       <stop
-         id="stop4333"
+         id="stop821"
          offset="0"
-         style="stop-color:#157367;stop-opacity:1;" />
+         style="stop-color:#1f996a;stop-opacity:1" />
       <stop
-         id="stop4335"
+         id="stop823"
          offset="1"
-         style="stop-color:#1a8c7e;stop-opacity:1" />
+         style="stop-color:#24b27b;stop-opacity:1" />
     </linearGradient>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -51,17 +86,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="90.509667"
-     inkscape:cx="8.8817494"
-     inkscape:cy="2.0593254"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="7.7106262"
+     inkscape:cy="7.8669647"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="699"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -117,18 +152,18 @@
       <path
          id="rect827"
          d="m 110.53658,358.33985 22,0 c 1.108,0 2,0.892 2,2 l 0,26 c 0,1.108 -0.892,2 -2,2 l -22,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-26 c 0,-1.108 0.892,-2 2,-2 z"
-         style="opacity:1;fill:#0e4d45;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#007343;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          id="rect829"
          d="m 110.53658,359.33985 c -0.554,0 -1,0.446 -1,1 l 0,26 c 0,0.554 0.446,1 1,1 l 2,0 0,-28 z m 2,28 1,0 z m 1,0 19,0 c 0.554,0 1,-0.446 1,-1 l 0,-26 c 0,-0.554 -0.446,-1 -1,-1 l -19,0 z"
-         style="opacity:1;fill:url(#linearGradient837);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:url(#linearGradient837);fill-opacity:1.0;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ssssccsccccsssscc" />
       <path
          inkscape:connector-curvature="0"
          d="m 126.53658,362.33985 c -0.554,0 -1,0.44599 -1,1 l 0,5 0,2 0,4 3,-3 3,3 0,-4 0,-2 0,-5 c 0,-0.55401 -0.446,-1 -1,-1 z"
-         style="color:#122036;fill:#075447;fill-opacity:1;stroke:none"
+         style="color:#122036;fill:#007343;fill-opacity:1;stroke:none"
          class="ColorScheme-Text"
          id="path4148-6" />
       <path

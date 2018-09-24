@@ -15,33 +15,33 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="application-vnd.ms-excel.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="289.59164"
-       x2="4.2333336"
-       y1="296.20624"
-       x1="4.2333336"
-       id="linearGradient837"
-       xlink:href="#linearGradient7100"
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,-46,-803.31344)"
        inkscape:collect="always"
-       gradientTransform="matrix(3.7795275,0,0,3.7795275,-8,-805.86971)" />
+       xlink:href="#linearGradient961"
+       id="linearGradient837-3"
+       x1="4.2333336"
+       y1="296.20624"
+       x2="4.2333336"
+       y2="289.59164"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient7100">
+       id="linearGradient961">
       <stop
-         style="stop-color:#02ca56;stop-opacity:1"
+         style="stop-color:#29b672;stop-opacity:1"
          offset="0"
-         id="stop7096" />
+         id="stop957" />
       <stop
-         style="stop-color:#75d97d;stop-opacity:1"
+         style="stop-color:#56d38c;stop-opacity:1"
          offset="1"
-         id="stop7098" />
+         id="stop959" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -51,17 +51,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999999"
-     inkscape:cx="-29.160026"
-     inkscape:cy="18.477717"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="96.277038"
+     inkscape:cy="33.312605"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="699"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -89,29 +89,29 @@
      id="layer1"
      transform="translate(0,-282.64999)">
     <g
-       id="g11229"
-       transform="translate(8.0000005,-2)">
+       id="g847"
+       transform="translate(46,-4.55627)">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#269435;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -3,285.64999 h 21.999999 c 1.108,0 2,0.892 2,2 v 26 c 0,1.108 -0.892,2 -2,2 H -3 c -1.108,0 -2,-0.892 -2,-2 v -26 c 0,-1.108 0.892,-2 2,-2 z"
-         id="rect827" />
+         style="opacity:1;fill:#278c5a;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -41,288.20626 h 21.999999 c 1.108,0 2,0.892 2,2 v 26 c 0,1.108 -0.892,2 -2,2 H -41 c -1.108,0 -2,-0.892 -2,-2 v -26 c 0,-1.108 0.892,-2 2,-2 z"
+         id="rect827-6" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:url(#linearGradient837);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m -3,286.64999 h 21.999999 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H -3 c -0.554,0 -1,-0.446 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
-         id="rect829" />
+         style="opacity:1;fill:url(#linearGradient837-3);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -41,289.20626 h 21.999999 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H -41 c -0.554,0 -1,-0.446 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
+         id="rect829-7" />
       <path
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#269435;fill-opacity:1;stroke:none;stroke-width:0.29842657"
-         d="m 2.000001,305.64999 v -8 l 7.999999,-3 4,2 v 11 l -4,1 -7.999999,-3 6.999995,1 v -9 l -4,1 v 6 z"
-         id="path3025-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#278c5a;fill-opacity:1;stroke:none;stroke-width:0.29842657"
+         d="m -35.999999,308.20626 v -8 l 7.999999,-3 4,2 v 11 l -4,1 -7.999999,-3 6.999995,1 v -9 l -4,1 v 6 z"
+         id="path3025-0-9-5"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccc" />
       <path
          sodipodi:nodetypes="cccccccccccc"
          inkscape:connector-curvature="0"
-         id="path3025-0"
-         d="m 2.000001,304.64999 v -8 l 7.999999,-3 4,2 v 11 l -4,1 -8,-2 h 6.999995 v -9 l -3.999999,1 v 6 z"
+         id="path3025-0-3"
+         d="m -35.999999,307.20626 v -8 l 7.999999,-3 4,2 v 11 l -4,1 -8,-2 h 6.999995 v -9 l -3.999999,1 v 6 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#f8faf8;fill-opacity:1;stroke:none;stroke-width:0.29842657" />
     </g>
   </g>

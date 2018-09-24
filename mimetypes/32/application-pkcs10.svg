@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="application-pkcs10.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -51,17 +51,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="-10.635302"
-     inkscape:cy="16.67159"
+     inkscape:zoom="15.999999"
+     inkscape:cx="25.341641"
+     inkscape:cy="7.8124775"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="699"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -94,9 +94,20 @@
        style="opacity:1;fill:#546e7a;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
+       id="rect4165-0-3"
+       d="m 16,293.64999 c -2.216,0 -4,1.784 -4,4 v 1 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 6 1 1 c 0.553998,0 1,-0.446 1,-1 v -1 -1 -1 -1 -1 -1 c 0,-0.554 -0.446,-1 -1,-1 v -1 c 0,-2.216 -1.784,-4 -4,-4 z m 0,2 c 1.108,0 2,0.892 2,2 v 1 h -4 v -1 c 0,-1.108 0.892,-2 2,-2 z m 0,4 c 1.108,0 2,0.892 2,2 0,0.74107 -0.404201,1.37905 -1,1.72461 v 2.27539 h -2 v -2.27539 c -0.595799,-0.34556 -1,-0.98354 -1,-1.72461 0,-1.108 0.892,-2 2,-2 z"
+       style="opacity:1;fill:#b2b9ba;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
        inkscape:connector-curvature="0"
        style="opacity:1;fill:url(#linearGradient837-3-9-3);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6,284.64999 0,1 0,1 2,0 0,-2 -2,0 z m 2,2 0,2 -2,0 0,-2 -1,0 -1,0 0,22 2,0 0,2 2,0 0,-2 2,0 0,2 2,0 0,-2 2,0 0,2 2,0 0,-2 2,0 0,2 2,0 0,-2 2,0 0,2 2,0 0,-2 2,0 0,2 1,0 1,0 0,-22 -2,0 0,-2 -2,0 0,2 -2,0 0,-2 -2,0 0,2 -2,0 0,-2 -2,0 0,2 -2,0 0,-2 -2,0 0,2 -2,0 0,-2 -2,0 z m 2,0 2,0 0,-2 -2,0 0,2 z m 4,0 2,0 0,-2 -2,0 0,2 z m 4,0 2,0 0,-2 -2,0 0,2 z m 4,0 2,0 0,-2 -2,0 0,2 z m 4,0 2,0 0,-1 c 0,-0.55401 -0.446,-1 -1,-1 l -1,0 0,2 z m 0,24 -2,0 0,2 2,0 0,-1 0,-1 z m -4,0 -2,0 0,2 2,0 0,-2 z m -4,0 -2,0 0,2 2,0 0,-2 z m -4,0 -2,0 0,2 2,0 0,-2 z m -4,0 -2,0 0,2 2,0 0,-2 z m -4,0 -2,0 0,1 c 0,0.55401 0.446,1 1,1 l 1,0 0,-2 z m 10,-18 c 2.216,0 4,1.784 4,4 l 0,1 c 0.554,0 1,0.446 1,1 l 0,1 0,1 0,1 0,1 0,1 0,1 c 0,0.554 -0.446,1 -1,1 l -1,0 -1,0 -6,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-6 c 0,-0.554 0.446,-1 1,-1 l 0,-1 c 0,-2.216 1.784,-4 4,-4 z m 0,2 c -1.108,0 -2,0.892 -2,2 l 0,1 4,0 0,-1 c 0,-1.108 -0.892,-2 -2,-2 z m 0,4 c -1.108,0 -2,0.892 -2,2 0,0.741 0.4042,1.37901 1,1.72461 l 0,2.27539 2,0 0,-2.27539 c 0.5958,-0.3456 1,-0.98361 1,-1.72461 0,-1.108 -0.892,-2 -2,-2 z"
-       id="rect829-6-77-3" />
+       d="m 6,284.64999 v 1 1 h 2 v -2 z m 2,2 v 2 H 6 v -2 H 5 4 v 22 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v 2 h 1 1 v -22 h -2 v -2 h -2 v 2 h -2 v -2 h -2 v 2 h -2 v -2 h -2 v 2 h -2 v -2 h -2 v 2 h -2 v -2 z m 2,0 h 2 v -2 h -2 z m 4,0 h 2 v -2 h -2 z m 4,0 h 2 v -2 h -2 z m 4,0 h 2 v -2 h -2 z m 4,0 h 2 v -1 c 0,-0.55401 -0.446,-1 -1,-1 h -1 z m 0,24 h -2 v 2 h 2 v -1 z m -4,0 h -2 v 2 h 2 z m -4,0 h -2 v 2 h 2 z m -4,0 h -2 v 2 h 2 z m -4,0 H 8 v 2 h 2 z m -4,0 H 4 v 1 c 0,0.55401 0.446,1 1,1 h 1 z"
+       id="rect829-6-77-3"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccssccccccccccccccccccccccccccccccsscc" />
+    <path
+       id="rect4165-0-3-3"
+       d="m 16,291.92538 c -2.216,0 -4,1.784 -4,4 v 1 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 6 1 1 c 0.553998,0 1,-0.446 1,-1 v -1 -1 -1 -1 -1 -1 c 0,-0.554 -0.446,-1 -1,-1 v -1 c 0,-2.216 -1.784,-4 -4,-4 z m 0,2 c 1.108,0 2,0.892 2,2 v 1 h -4 v -1 c 0,-1.108 0.892,-2 2,-2 z m 0,4 c 1.108,0 2,0.892 2,2 0,0.74107 -0.404201,1.37905 -1,1.72461 v 2.27539 h -2 v -2.27539 c -0.595799,-0.34556 -1,-0.98354 -1,-1.72461 0,-1.108 0.892,-2 2,-2 z"
+       style="opacity:1;fill:#546e7a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
