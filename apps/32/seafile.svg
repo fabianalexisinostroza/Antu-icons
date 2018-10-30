@@ -15,7 +15,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="seafile.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -79,17 +79,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627416"
-     inkscape:cx="16.04109"
-     inkscape:cy="7.3557735"
+     inkscape:zoom="15.999999"
+     inkscape:cx="11.651648"
+     inkscape:cy="12.952387"
      inkscape:document-units="px"
      inkscape:current-layer="g1176"
      showgrid="true"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="729"
+     inkscape:window-width="1360"
+     inkscape:window-height="711"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -144,12 +144,10 @@
              d="m -9,290.64999 h 24 c 1.108,0 2,0.892 2,2 v 22 c 0,1.108 -0.892,2 -2,2 H -9 c -1.108,0 -2,-0.892 -2,-2 v -22 c 0,-1.108 0.892,-2 2,-2 z"
              id="rect838" />
           <path
-             style="fill:url(#linearGradient916);fill-opacity:1.0;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="M 4,2 C 3.446,2 3,2.446 3,3 v 22 c 0,0.554 0.446,1 1,1 h 24 c 0.554,0 1,-0.446 1,-1 V 3 C 29,2.446 28.554,2 28,2 Z"
+             style="fill:url(#linearGradient916);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 4 2 C 3.446 2 3 2.446 3 3 L 3 25 C 3 25.554 3.446 26 4 26 L 28 26 C 28.554 26 29 25.554 29 25 L 29 3 C 29 2.446 28.554 2 28 2 L 4 2 z M 5 3 C 5.554 3 6 3.446 6 4 C 6 4.554 5.554 5 5 5 C 4.446 5 4 4.554 4 4 C 4 3.446 4.446 3 5 3 z M 27 3 C 27.554 3 28 3.446 28 4 C 28 4.554 27.554 5 27 5 C 26.446 5 26 4.554 26 4 C 26 3.446 26.446 3 27 3 z M 5 23 C 5.554 23 6 23.446 6 24 C 6 24.554 5.554 25 5 25 C 4.446 25 4 24.554 4 24 C 4 23.446 4.446 23 5 23 z M 27 23 C 27.554 23 28 23.446 28 24 C 28 24.554 27.554 25 27 25 C 26.446 25 26 24.554 26 24 C 26 23.446 26.446 23 27 23 z "
              transform="translate(-13,289.64999)"
-             id="rect840"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="sssssssss" />
+             id="rect840" />
         </g>
         <g
            transform="translate(37.750006,10.25)"

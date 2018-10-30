@@ -117,9 +117,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="16.839853"
-     inkscape:cy="19.206522"
+     inkscape:zoom="1"
+     inkscape:cx="-199.58837"
+     inkscape:cy="-4.0937696"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -221,5 +221,28 @@
          style="opacity:1;fill:url(#linearGradient1004);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="opacity:0.98999999;vector-effect:none;fill:#8b8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect843"
+       width="16"
+       height="9.9999962"
+       x="8"
+       y="293.64999" />
+    <rect
+       style="opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect845"
+       width="14"
+       height="7.9999962"
+       x="9"
+       y="294.64999" />
+    <path
+       style="opacity:0.98999999;vector-effect:none;fill:#fdd835;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 10,295.64999 h 6 v 3 h -6 z"
+       id="rect857" />
+    <path
+       style="opacity:0.98999999;vector-effect:none;fill:#242833;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 18 13 L 18 14 L 22 14 L 22 13 L 18 13 z M 11 14 L 11 15 L 12 15 L 12 14 L 11 14 z M 13 14 L 13 15 L 15 15 L 15 14 L 13 14 z M 19 15 L 19 16 L 22 16 L 22 15 L 19 15 z M 10 18 L 10 19 L 11 19 L 11 18 L 10 18 z M 12 18 L 12 19 L 14 19 L 14 18 L 12 18 z M 15 18 L 15 19 L 16 19 L 16 18 L 15 18 z M 17 18 L 17 19 L 18 19 L 18 18 L 17 18 z M 19 18 L 19 19 L 21 19 L 21 18 L 19 18 z "
+       transform="translate(0,282.64999)"
+       id="rect847" />
   </g>
 </svg>

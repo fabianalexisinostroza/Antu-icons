@@ -73,7 +73,7 @@
        x2="17"
        y2="272.64999"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,-1)" />
+       gradientTransform="translate(3,-265.64999)" />
     <style
        type="text/css"
        id="current-color-scheme-5">
@@ -129,11 +129,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-79.570598"
-     inkscape:cy="-92.660828"
+     inkscape:zoom="11.313708"
+     inkscape:cx="33.343506"
+     inkscape:cy="20.507852"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-1"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
@@ -183,16 +183,15 @@
          sodipodi:nodetypes="cccsssscccccc" />
       <path
          style="opacity:1;fill:#3182d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 6,267.64999 h 30 c 1.662,0 2.946415,1.33886 3,3 l 1,31 c 0.05358,1.66114 -1.338,3 -3,3 H 5 c -1.662,0 -3.053585,-1.33886 -3,-3 l 1,-31 c 0.053585,-1.66114 1.338,-3 3,-3 z"
+         d="m 5,267.64999 h 32 c 1.662,0 3,1.338 3,3 v 31 c 0,1.662 -1.338,3 -3,3 H 5 c -1.662,0 -3,-1.338 -3,-3 v -31 c 0,-1.662 1.338,-3 3,-3 z"
          id="rect975"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssssssss" />
       <path
          style="opacity:1;fill:url(#linearGradient1017);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 6,268.64999 c -1.108,0 -1.9642766,0.89258 -2,2 l -1,31 c -0.035723,1.10742 0.892,2 2,2 h 32 c 1.108,0 2.035723,-0.89258 2,-2 l -1,-31 c -0.03572,-1.10742 -0.892,-2 -2,-2 z"
-         id="rect977"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sssssssss" />
+         d="M 8 4 C 6.892 4 6 4.892 6 6 L 6 37 C 6 38.108 6.892 39 8 39 L 40 39 C 41.108 39 42 38.108 42 37 L 42 6 C 42 4.892 41.108 4 40 4 L 8 4 z M 9.5 6 C 10.331 6 11 6.669 11 7.5 C 11 8.331 10.331 9 9.5 9 C 8.669 9 8 8.331 8 7.5 C 8 6.669 8.669 6 9.5 6 z M 38.5 6 C 39.331 6 40 6.669 40 7.5 C 40 8.331 39.331 9 38.5 9 C 37.669 9 37 8.331 37 7.5 C 37 6.669 37.669 6 38.5 6 z M 9.5 34 C 10.331 34 11 34.669 11 35.5 C 11 36.331 10.331 37 9.5 37 C 8.669 37 8 36.331 8 35.5 C 8 34.669 8.669 34 9.5 34 z M 38.5 34 C 39.331 34 40 34.669 40 35.5 C 40 36.331 39.331 37 38.5 37 C 37.669 37 37 36.331 37 35.5 C 37 34.669 37.669 34 38.5 34 z "
+         transform="translate(-3,264.64999)"
+         id="rect977" />
     </g>
     <g
        id="layer1-7"
