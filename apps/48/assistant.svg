@@ -40,18 +40,6 @@
         color:#122036;
       }
       </style>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient979">
-      <stop
-         style="stop-color:#44c367;stop-opacity:1"
-         offset="0"
-         id="stop975" />
-      <stop
-         style="stop-color:#6ce073;stop-opacity:1"
-         offset="1"
-         id="stop977" />
-    </linearGradient>
     <style
        type="text/css"
        id="current-color-scheme-1">
@@ -71,14 +59,28 @@
        y2="4" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient979"
+       xlink:href="#0"
        id="linearGradient931"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-25,290.64999)"
        x1="24"
-       y1="17"
+       y1="29.333334"
        x2="24"
-       y2="8" />
+       y2="2.6666667" />
+    <linearGradient
+       y2="518.14001"
+       x2="0"
+       y1="545.14001"
+       gradientUnits="userSpaceOnUse"
+       id="0">
+      <stop
+         id="stop4164"
+         stop-color="#00a661" />
+      <stop
+         id="stop4166"
+         stop-color="#37ce97"
+         offset="1" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -87,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="130.5947"
-     inkscape:cy="-14.4498"
+     inkscape:zoom="4"
+     inkscape:cx="13.686791"
+     inkscape:cy="-4.7770706"
      inkscape:document-units="px"
      inkscape:current-layer="g2369-9"
      showgrid="true"
@@ -163,18 +165,18 @@
              inkscape:connector-curvature="0"
              id="rect5924-9-8-7"
              d="m -2.3333333,299.98332 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.1080023,0 2.0000043,-0.892 2.0000043,-2 0,-1.108 -0.892002,-2 -2.0000043,-2 z m 0,5.33333 c -1.107996,0 -1.999998,0.892 -1.999998,2 v 1.66667 3 c 0,1.108 0.892002,2 1.999998,2 1.1080023,0 2.0000043,-0.892 2.0000043,-2 v -3 -1.66667 c 0,-1.108 -0.892002,-2 -2.0000043,-2 z"
-             style="opacity:1;fill:#2aa75a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:1;fill:#008c52;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="ssssssscssscss"
              inkscape:connector-curvature="0"
              id="rect5924-9-8"
              d="m -2.3333333,299.31666 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.00000397,-0.892 2.00000397,-2 0,-1.108 -0.89200197,-2 -2.00000397,-2 z m 0,5.33333 c -1.107996,0 -1.999998,0.892 -1.999998,2 v 1.66667 3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.00000397,-0.892 2.00000397,-2 v -3 -1.66667 c 0,-1.108 -0.89200197,-2 -2.00000397,-2 z"
-             style="opacity:1;fill:#e4fdeb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:1;fill:#edfaf5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="rect925-7"
              d="m -21,295.31666 v 1.33333 h -1.333333 v 1.33334 H -21 v 1.33333 h -1.333333 v 1.33333 H -21 v 1.33334 h 1.333334 v -1.33334 h 1.333333 v 1.33334 H -17 v -1.33334 h 1.333334 v -1.33333 H -17 v -1.33333 h 1.333334 v -1.33334 H -17 v -1.33333 h -1.333333 v 1.33333 h -1.333333 v -1.33333 z m 1.333334,2.66667 h 1.333333 v 1.33333 h -1.333333 z"
-             style="opacity:1;fill:#e4fdeb;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:1;fill:#edfaf5;fill-opacity:1;stroke:none;stroke-width:2.66666675;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
     </g>

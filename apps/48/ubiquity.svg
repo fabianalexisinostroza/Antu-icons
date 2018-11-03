@@ -401,9 +401,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="27.994365"
-     inkscape:cy="27.413943"
+     inkscape:zoom="11.313708"
+     inkscape:cx="13.80576"
+     inkscape:cy="31.004793"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -705,6 +705,30 @@
        id="rect977-5"
        d="m 35,299.64999 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z"
        style="opacity:1;fill:#a5a6a6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(52,3)"
+       id="g1039">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.98999999;vector-effect:none;fill:#8c8d8d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -41,277.64999 h 20 v 14 h -20 z"
+         id="rect946" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.98999999;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -40,278.64999 h 18 v 12 h -18 z"
+         id="rect948" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.98999999;vector-effect:none;fill:#fdd835;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -39,279.64999 h 8 v 5 h -8 z"
+         id="rect953" />
+      <path
+         id="rect955"
+         d="m -28,279.64999 v 1 h 5 v -1 z m -10,1 v 1 h 4 v -1 z m 5,0 v 3 h 1 v -3 z m 7,1 v 1 h 3 v -1 z m -12,1 v 1 h 2 v -1 z m 3,0 v 1 h 1 v -1 z m 8,1 v 1 h 4 v -1 z m -12,4 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z"
+         style="opacity:0.98999999;vector-effect:none;fill:#242833;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
     <path
        inkscape:connector-curvature="0"
        id="rect992-5"

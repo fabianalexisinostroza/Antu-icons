@@ -149,6 +149,111 @@
          offset="1"
          id="stop1376" />
     </linearGradient>
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-3-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-535"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5356">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-29">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -158,10 +263,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="16.924364"
-     inkscape:cy="22.373529"
+     inkscape:cx="28.597177"
+     inkscape:cy="24.774458"
      inkscape:document-units="px"
-     inkscape:current-layer="g1684"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
@@ -292,6 +397,30 @@
          d="m -57.5,291.64999 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z"
          id="path942"
          inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-12.000749,-4.99998)"
+         id="g1039">
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.98999999;vector-effect:none;fill:#8c8d8d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -41,277.64999 h 20 v 14 h -20 z"
+           id="rect946" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.98999999;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -40,278.64999 h 18 v 12 h -18 z"
+           id="rect948" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.98999999;vector-effect:none;fill:#fdd835;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m -39,279.64999 h 8 v 5 h -8 z"
+           id="rect953" />
+        <path
+           id="rect955"
+           d="m -28,279.64999 v 1 h 5 v -1 z m -10,1 v 1 h 4 v -1 z m 5,0 v 3 h 1 v -3 z m 7,1 v 1 h 3 v -1 z m -12,1 v 1 h 2 v -1 z m 3,0 v 1 h 1 v -1 z m 8,1 v 1 h 4 v -1 z m -12,4 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z"
+           style="opacity:0.98999999;vector-effect:none;fill:#242833;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
          style="opacity:1;fill:#00663c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -32,276.64999 c 7.756,0 14,6.244 14,14 v 4e-5 c 0,7.756 -6.244,14 -14,14 -7.756,0 -14,-6.244 -14,-14 v -4e-5 c 0,-7.756 6.244,-14 14,-14 z"

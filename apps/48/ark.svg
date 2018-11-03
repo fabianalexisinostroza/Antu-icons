@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="utilities-file-archiver.svg">
+   sodipodi:docname="ark.svg">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -50,12 +50,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-93.916022"
-     inkscape:cy="38.924416"
+     inkscape:zoom="22.627417"
+     inkscape:cx="21.983098"
+     inkscape:cy="25.457727"
      inkscape:document-units="px"
-     inkscape:current-layer="g1066"
-     showgrid="false"
+     inkscape:current-layer="layer1-6-7"
+     showgrid="true"
      units="px"
      inkscape:window-width="1360"
      inkscape:window-height="711"
@@ -116,6 +116,11 @@
            style="opacity:1;fill:#0c3996;fill-opacity:1;stroke:none;stroke-width:0.68181932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 15.318181,298.64998 v 0.86959 c -0.406228,0.23561 -0.68182,0.67059 -0.68182,1.17587 0,0.75545 0.608184,1.36364 1.363639,1.36364 0.755455,0 1.363639,-0.60819 1.363639,-1.36364 0,-0.50528 -0.275592,-0.94026 -0.68182,-1.17587 v -0.86959 z M 16,300.01362 c 0.377728,0 0.681819,0.30409 0.681819,0.68182 0,0.37773 -0.304091,0.68182 -0.681819,0.68182 -0.377728,0 -0.681819,-0.30409 -0.681819,-0.68182 0,-0.37773 0.304091,-0.68182 0.681819,-0.68182 z"
            id="rect1066-9" />
+        <path
+           style="opacity:1;fill:#010102;fill-opacity:1;stroke:none;stroke-width:0.68181932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 15.999999,285.0136 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68181 h 0.681819 z m 0,0.68181 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68182 h 0.68182 v -0.68182 z m 0,0.68182 H 15.31818 v 0.68182 h 0.681819 z m 0,0.68182 v 0.68181 h 0.68182 v -0.68181 z"
+           id="path882"
+           inkscape:connector-curvature="0" />
         <path
            style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="M 24 3 L 24 4 L 25 4 L 25 3 L 24 3 z M 24 4 L 23 4 L 23 5 L 24 5 L 24 4 z M 24 5 L 24 6 L 25 6 L 25 5 L 24 5 z M 24 6 L 23 6 L 23 7 L 24 7 L 24 6 z M 24 7 L 24 8 L 25 8 L 25 7 L 24 7 z M 24 8 L 23 8 L 23 9 L 24 9 L 24 8 z M 24 9 L 24 10 L 25 10 L 25 9 L 24 9 z M 24 10 L 23 10 L 23 11 L 24 11 L 24 10 z M 24 11 L 24 12 L 25 12 L 25 11 L 24 11 z M 24 12 L 23 12 L 23 13 L 24 13 L 24 12 z M 24 13 L 24 14 L 25 14 L 25 13 L 24 13 z M 24 14 L 23 14 L 23 15 L 24 15 L 24 14 z M 24 15 L 24 16 L 25 16 L 25 15 L 24 15 z M 24 16 L 23 16 L 23 17 L 24 17 L 24 16 z M 24 17 L 24 18 L 25 18 L 25 17 L 24 17 z M 24 18 L 23 18 L 23 19 L 24 19 L 24 18 z M 24 19 L 24 20 L 25 20 L 25 19 L 24 19 z M 24 20 L 23 20 L 23 21 L 24 21 L 24 20 z M 24 21 L 24 22 L 25 22 L 25 21 L 24 21 z M 24 22 L 23 22 L 23 23 L 23 24.275391 C 22.404201 24.620952 22 25.258931 22 26 C 22 27.107999 22.892001 28 24 28 C 25.107999 28 26 27.107999 26 26 C 26 25.258931 25.595799 24.620952 25 24.275391 L 25 23 L 24 23 L 24 22 z M 24 25 C 24.554 25 25 25.446 25 26 C 25 26.554 24.554 27 24 27 C 23.446 27 23 26.554 23 26 C 23 25.446 23.446 25 24 25 z "

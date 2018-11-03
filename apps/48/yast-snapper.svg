@@ -318,8 +318,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="22.241639"
-     inkscape:cy="17.767505"
+     inkscape:cx="14.551852"
+     inkscape:cy="31.909641"
      inkscape:document-units="px"
      inkscape:current-layer="g6532-9"
      showgrid="true"
@@ -599,6 +599,30 @@
              d="m -28.5,275.64999 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 29,0 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
              id="path950-2-3"
              inkscape:connector-curvature="0" />
+          <g
+             transform="translate(17,-5)"
+             id="g1039">
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:0.98999999;vector-effect:none;fill:#8c8d8d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m -41,277.64999 h 20 v 14 h -20 z"
+               id="rect946" />
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:0.98999999;vector-effect:none;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m -40,278.64999 h 18 v 12 h -18 z"
+               id="rect948" />
+            <path
+               inkscape:connector-curvature="0"
+               style="opacity:0.98999999;vector-effect:none;fill:#fdd835;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               d="m -39,279.64999 h 8 v 5 h -8 z"
+               id="rect953" />
+            <path
+               id="rect955"
+               d="m -28,279.64999 v 1 h 5 v -1 z m -10,1 v 1 h 4 v -1 z m 5,0 v 3 h 1 v -3 z m 7,1 v 1 h 3 v -1 z m -12,1 v 1 h 2 v -1 z m 3,0 v 1 h 1 v -1 z m 8,1 v 1 h 4 v -1 z m -12,4 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z m 3,0 v 2 h 1 v -2 z m 2,0 v 2 h 2 v -2 z"
+               style="opacity:0.98999999;vector-effect:none;fill:#242833;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
         </g>
       </g>
     </g>

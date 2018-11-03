@@ -200,7 +200,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.999999"
-     inkscape:cx="10.832466"
+     inkscape:cx="0.39496535"
      inkscape:cy="16.683825"
      inkscape:document-units="px"
      inkscape:current-layer="g1176"
@@ -372,6 +372,35 @@
               </g>
             </g>
           </g>
+        </g>
+        <g
+           transform="translate(-15,5.9999961)"
+           id="g850">
+          <rect
+             y="293.64999"
+             x="8"
+             height="9.9999962"
+             width="16"
+             id="rect843"
+             style="opacity:0.98999999;vector-effect:none;fill:#8b8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="294.64999"
+             x="9"
+             height="7.9999962"
+             width="14"
+             id="rect845"
+             style="opacity:0.98999999;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect857"
+             d="m 10,295.64999 h 6 v 3 h -6 z"
+             style="opacity:0.98999999;vector-effect:none;fill:#fdd835;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect847"
+             transform="translate(0,282.64999)"
+             d="m 18,13 v 1 h 4 v -1 z m -7,1 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m 6,1 v 1 h 3 v -1 z m -9,3 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z m 3,0 v 1 h 1 v -1 z m 2,0 v 1 h 1 v -1 z m 2,0 v 1 h 2 v -1 z"
+             style="opacity:0.98999999;vector-effect:none;fill:#242833;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
            id="rect937"
