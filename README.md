@@ -31,4 +31,4 @@
 
 - If you want to report icons, please, use the issues page on this repository (:.
 
-![Antü icons](https://pinguinosyuncafe.files.wordpress.com/2018/06/preview.png)
+![Antü icons](https://pinguinosyuncafe.files.wordpress.com/2019/02/antu-teaser.png)
