@@ -1,128 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   viewBox="0 0 22 22"
-   width="22"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="folder-magenta.svg">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="711"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="7.993812"
-     inkscape:cy="2.9207966"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs2">
+<svg 
+    height="22" 
+    viewBox="0 0 22 22"
+    width="22"
+    xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs2">
     <style
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#122036;
+        color:#36404d;
       }
       </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-67">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-7">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-5">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-9"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-1"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       type="text/css"
-       id="current-color-scheme-10">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-6"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-7-1"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-    <style
-       id="current-color-scheme-5-2"
-       type="text/css">
-      .ColorScheme-Text {
-        color:#122036;
-      }
-      </style>
-  </defs>
-  <path
-     inkscape:connector-curvature="0"
-     d="M 3.125,3.000015 C 2.504,3.000015 2,3.511685 2,4.142605 l 0,13.71485 c 0,0.63149 0.504,1.14255 1.125,1.14255 l 15.75,0 c 0.621,0 1.125,-0.51167 1.125,-1.14255 L 20,6.1582249 C 20,5.526695 19.496,5.000015 18.875,5.000015 l -8.875,0 -2,-2 -2,-2e-5 z"
-     style="color:#122036;fill:#d10079;fill-opacity:1;stroke:none"
-     class="ColorScheme-Text"
-     id="path6-3" />
+    </defs>
+    <path 
+        d="m4 7h14v10h-14z"
+        fill="#f765ba"/>
+    <path
+        d="m23 6c-.554001 0-1 .44601-1 1v4 8 2c0 .554.445999 1 1 1h16c.554001 0 1-.446 1-1v-2-10c0-.1385-.027656-.2709062-.078125-.390625-.151406-.3591548-.506374-.609375-.921875-.609375h-8c-2.15625 0-1-2-4-2zm7 4h8v10h-14v-8h3c3 0 2-2 3-2z" 
+        fill="currentColor" 
+        transform="translate(-20 -3)"
+        style="fill:currentColor;fill-opacity:1;stroke:none"
+        class="ColorScheme-Text"/>
 </svg>

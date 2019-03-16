@@ -1,6 +1,6 @@
-<svg 
+<svg
     height="22"
-    viewBox="0 0 22 22" 
+    viewBox="0 0 22 22"
     width="22"
     xmlns="http://www.w3.org/2000/svg">
     <defs id="defs2">
@@ -8,14 +8,14 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#122036;
+        color:#36404d;
       }
       </style>
     </defs>
     <path 
-        d="m3.125 294.17916c-.621 0-1.125.51167-1.125 1.14259v13.71485c0 .63149.504 1.14255 1.125 1.14255h15.75c.621 0 1.125-.51167 1.125-1.14255v-11.69923c0-.63153-.504-1.15821-1.125-1.15821h-8.875l-2-2-2-.00002z"
-        fill="currentColor"
-        transform="translate(0 -291.17915)"
+        d="m23 6c-.554001 0-1 .44601-1 1v4 8 2c0 .554.445999 1 1 1h16c.554001 0 1-.446 1-1v-2-10c0-.1385-.027656-.2709062-.078125-.390625-.151406-.3591548-.506374-.609375-.921875-.609375h-8c-2.15625 0-1-2-4-2zm7 4h8v10h-14v-8h3c3 0 2-2 3-2z" 
+        fill="currentColor" 
+        transform="translate(-20 -3)"
         style="fill:currentColor;fill-opacity:1;stroke:none"
         class="ColorScheme-Text"/>
 </svg>
