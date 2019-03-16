@@ -15,7 +15,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="application-x-executable.svg">
   <title
      id="title7895">Antu icon Theme</title>
@@ -36,7 +36,7 @@
        xlink:href="#linearGradient1289"
        id="linearGradient1208"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1931818,0,0,-1.1931818,-16.090909,312.74091)"
+       gradientTransform="matrix(1.75,0,0,-1.75,-4.0000005,52.000012)"
        x1="16"
        y1="19"
        x2="16"
@@ -95,17 +95,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.0000005"
-     inkscape:cx="13.781105"
-     inkscape:cy="24.658792"
+     inkscape:zoom="45.254837"
+     inkscape:cx="21.509258"
+     inkscape:cy="24.605342"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1360"
-     inkscape:window-height="711"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -203,10 +203,10 @@
             </g>
           </g>
           <path
-             style="opacity:1;fill:url(#linearGradient1208);fill-opacity:1;stroke:none;stroke-width:2.38636351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 3.0000001,298.42272 c -2.64408996,0 -4.7727272,-2.12864 -4.7727272,-4.77273 0,-2.64408 2.12863724,-4.77272 4.7727272,-4.77272 2.6440898,0 4.7727271,2.12864 4.7727271,4.77272 0,2.64409 -2.1286373,4.77273 -4.7727271,4.77273 z m 0,-1.90909 c 1.5864544,0 2.8636361,-1.27718 2.8636361,-2.86364 0,-1.58645 -1.2771817,-2.86363 -2.8636361,-2.86363 -1.5864546,0 -2.86363637,1.27718 -2.86363637,2.86363 0,1.58646 1.27718177,2.86364 2.86363637,2.86364 z"
-             id="path1204"
-             inkscape:connector-curvature="0" />
+             style="opacity:1;fill:url(#linearGradient1208);fill-opacity:1;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 24 17 C 20.122001 17 17 20.122016 17 24 C 17 27.877999 20.122001 31 24 31 C 27.877998 31 31 27.877999 31 24 C 31 20.122016 27.877998 17 24 17 z M 24 20 C 26.216 20 28 21.784 28 24 C 28 26.216 26.216 28 24 28 C 21.784 28 20 26.216 20 24 C 20 21.784 21.784 20 24 20 z "
+             transform="matrix(0.68181817,0,0,0.68181817,-13.363636,277.28636)"
+             id="path1204" />
           <path
              id="path1801"
              transform="matrix(0.68181817,0,0,0.68181817,-13.363636,277.28636)"
