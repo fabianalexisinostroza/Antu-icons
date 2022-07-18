@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="git-gui.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="translate(16,32)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient7100"
+       id="linearGradient956"
+       x1="16"
+       y1="312.64999"
+       x2="16"
+       y2="285.64999"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7100">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1"
+         offset="0"
+         id="stop7096" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop7098" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(8.485418,24)"
+       gradientUnits="userSpaceOnUse"
+       y2="300.64999"
+       x2="23.514582"
+       y1="314.64999"
+       x1="23.514582"
+       id="linearGradient4224"
+       xlink:href="#linearGradient8668"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8668">
+      <stop
+         style="stop-color:#c62f4e;stop-opacity:1"
+         offset="0"
+         id="stop8664" />
+      <stop
+         style="stop-color:#4c1a4a;stop-opacity:1"
+         offset="1"
+         id="stop8666" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="76.038266"
+     inkscape:cy="11.524686"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g862"
+       transform="translate(-16,-32)">
+      <path
+         style="opacity:1;fill:#b3c9d5;fill-opacity:1;stroke:none;stroke-width:1.97685266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 32,315.64999 c 8.31,0 15,6.69 15,15 0,8.31 -6.69,15 -15,15 -8.31,0 -15,-6.69 -15,-15 0,-8.31 6.69,-15 15,-15 z"
+         id="rect903"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:url(#linearGradient956);fill-opacity:1;stroke:none;stroke-width:1.84506249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 32,316.64999 c 7.756,0 14,6.244 14,14 0,7.756 -6.244,14 -14,14 -7.756,0 -14,-6.244 -14,-14 0,-7.756 6.244,-14 14,-14 z"
+         id="rect903-2"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4165-6"
+         d="m 27.501953,322.64999 c -0.276893,-9.9e-4 -0.501927,0.2231 -0.501953,0.5 v 2.83594 c -0.628307,0.89407 -1,1.98354 -1,3.16406 0,2.35578 1.469509,4.35023 3.542969,5.13672 C 29.20283,334.82665 29,335.46206 29,336.14999 c 0,0.0415 0.0103,0.0799 0.01172,0.12109 H 29 v 0.0645 c -0.683346,-0.28598 -1.042851,-0.74332 -1.449219,-1.28515 -0.343,-0.45733 -0.67282,-1.00764 -1.216797,-1.50977 -0.543975,-0.50218 -1.361762,-0.89067 -2.333984,-0.89067 -1.352323,-0.0191 -1.352323,2.01912 0,2 0.527778,0 0.709992,0.11151 0.978516,0.35937 0.268523,0.24786 0.563703,0.69758 0.970703,1.24024 0.589236,0.78565 1.531012,1.68456 3.050781,2.125 v 0.77539 0.5 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 -0.5 -2 c 0,-0.277 0.223,-0.5 0.5,-0.5 0.277,0 0.5,0.223 0.5,0.5 v 1.5 0.5 0.5 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 -0.5 -3 c 0,-0.277 0.223,-0.5 0.5,-0.5 0.277,0 0.5,0.223 0.5,0.5 v 2.5 0.5 0.5 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 -0.5 -0.5 -1.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 0.277,0 0.5,0.223 0.5,0.5 v 1.5 0.5 0.5 0.5 c 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 v -0.5 -0.5 -2.87891 H 35.98828 C 35.989682,336.22998 36,336.19148 36,336.14999 36,335.46206 35.79717,334.82665 35.457031,334.28671 37.530491,333.50022 39,331.50577 39,329.14999 c 0,-1.18052 -0.371693,-2.26998 -1,-3.16406 v -2.83594 c 1.09e-4,-0.28235 -0.233413,-0.5088 -0.515625,-0.5 -0.06258,0.002 -0.124196,0.0161 -0.181641,0.041 l -2.572265,1.10156 c -0.395961,-0.09 -0.8065,-0.14258 -1.230469,-0.14258 h -2 c -0.423969,0 -0.834508,0.0526 -1.230469,0.14258 l -2.572265,-1.10156 c -0.06169,-0.0266 -0.128114,-0.0406 -0.195313,-0.041 z"
+         style="opacity:1;fill:url(#linearGradient4224);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

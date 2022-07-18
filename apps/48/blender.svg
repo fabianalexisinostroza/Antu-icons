@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1866"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="blender.svg"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1868"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="9.514435"
+     inkscape:cx="24.489105"
+     inkscape:cy="32.949933"
+     inkscape:window-width="2160"
+     inkscape:window-height="1337"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1-7"
+     showguides="true"><inkscape:grid
+       type="xygrid"
+       id="grid3439" /></sodipodi:namedview><defs
+     id="defs1863"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient5589"><stop
+         style="stop-color:#ff6e42;stop-opacity:1;"
+         offset="0"
+         id="stop5585" /><stop
+         style="stop-color:#ff8f64;stop-opacity:1;"
+         offset="1"
+         id="stop5587" /></linearGradient><linearGradient
+       inkscape:collect="always"
+       id="linearGradient4891"><stop
+         style="stop-color:#f1f1f1;stop-opacity:1;"
+         offset="0"
+         id="stop4887" /><stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop4889" /></linearGradient><linearGradient
+       inkscape:collect="always"
+       id="linearGradient2951"><stop
+         style="stop-color:#33acfa;stop-opacity:1;"
+         offset="0"
+         id="stop2947" /><stop
+         style="stop-color:#0e74ec;stop-opacity:1;"
+         offset="1"
+         id="stop2949" /></linearGradient><style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-27">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-535"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-35">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-36">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-75">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7-29">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-93"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-27-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-535-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-6-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-7-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-5-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-3-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-5-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-6-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-2-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-9-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-367">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-62"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3-60"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-27-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-535-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-6-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-7-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-5-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-3-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-5-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-6-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-2-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-9-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-35-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-6-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-2-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-9-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-1-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7-2-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-7-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-0-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-9-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-3-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-6-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-36-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-75-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-3-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-5-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-6-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-7-29-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-1-4">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-2-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-7-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-0-4">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-93-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3-6-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-27-0-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-535-6-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-53-6-2-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-7-6-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-2-5-1-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-3-8-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-5-7-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-0-6-9-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-26-2-2-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-9-0-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2951"
+       id="linearGradient2953"
+       x1="1.3818278"
+       y1="-3.1747415"
+       x2="1.3818278"
+       y2="-5.8205748"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4891"
+       id="linearGradient4893"
+       x1="1.3818278"
+       y1="-1.8518249"
+       x2="1.3818278"
+       y2="-7.1434917"
+       gradientUnits="userSpaceOnUse" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5589"
+       id="linearGradient5591"
+       x1="-3.4850199"
+       y1="10.494032"
+       x2="-3.4850199"
+       y2="-0.3538852"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g3485"
+       transform="translate(7.1437501,2.9104168)"><g
+         inkscape:label="Capa 1"
+         id="layer1-7"
+         transform="translate(4.5433532,-1.7627816)"><path
+           id="rect1522"
+           style="fill:#dd4d25;stroke:none;stroke-width:1.14818;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+           d="M -7.3865906 -0.61640148 A 1.0583349 1.0583349 0 0 0 -7.662026 -0.59779796 A 1.0583349 1.0583349 0 0 0 -8.3338196 -0.14666271 A 1.0583349 1.0583349 0 0 0 -8.0408142 1.3204312 L -6.1871806 2.5565315 L -10.363153 2.5565315 A 1.0583349 1.0583349 0 0 0 -11.422003 3.6153816 A 1.0583349 1.0583349 0 0 0 -10.363153 4.6737149 L -7.5612569 4.6737149 L -10.495962 7.0213752 A 1.0583333 1.0583333 0 0 0 -10.596214 7.1133593 A 1.0583333 1.0583333 0 0 0 -10.704734 7.247718 A 1.0583349 1.0583349 0 0 0 -10.722821 7.2751065 A 1.0583333 1.0583333 0 0 0 -10.793101 7.4027473 A 1.0583349 1.0583349 0 0 0 -10.805503 7.4285855 A 1.0583333 1.0583333 0 0 0 -10.889219 7.7644823 A 1.0583349 1.0583349 0 0 0 -10.890253 7.7934211 A 1.0583333 1.0583333 0 0 0 -10.888186 7.9375984 A 1.0583349 1.0583349 0 0 0 -10.885085 7.9732551 A 1.0583333 1.0583333 0 0 0 -10.792067 8.2977831 A 1.0583349 1.0583349 0 0 0 -10.77243 8.3360237 A 1.0583333 1.0583333 0 0 0 -10.704218 8.4497118 A 1.0583349 1.0583349 0 0 0 -10.691298 8.4708991 A 1.0583349 1.0583349 0 0 0 -10.68148 8.482268 A 1.0583333 1.0583333 0 0 0 -10.66236 8.5096565 A 1.0583333 1.0583333 0 0 0 -10.570376 8.6099087 A 1.0583333 1.0583333 0 0 0 -10.43705 8.7179125 A 1.0583349 1.0583349 0 0 0 -10.405528 8.7380663 A 1.0583333 1.0583333 0 0 0 -10.291323 8.8011115 A 1.0583349 1.0583349 0 0 0 -10.246364 8.8222989 A 1.0583333 1.0583333 0 0 0 -10.118207 8.8667406 A 1.0583349 1.0583349 0 0 0 -10.069631 8.879143 A 1.0583333 1.0583333 0 0 0 -9.9285543 8.9013638 A 1.0583349 1.0583349 0 0 0 -9.8732605 8.9039476 A 1.0583333 1.0583333 0 0 0 -9.7637065 8.9018806 A 1.0583349 1.0583349 0 0 0 -9.6970439 8.8961962 A 1.0583333 1.0583333 0 0 0 -9.5843893 8.8744921 A 1.0583349 1.0583349 0 0 0 -9.5115255 8.8543383 A 1.0583333 1.0583333 0 0 0 -9.3957703 8.8098965 A 1.0583349 1.0583349 0 0 0 -9.3285909 8.7747566 A 1.0583333 1.0583333 0 0 0 -9.2531433 8.7292813 A 1.0583349 1.0583349 0 0 0 -9.2128357 8.7049934 L -7.6475566 7.5660448 C -7.2849986 9.5380845 -5.5650196 11.023198 -3.48502 11.023198 C -1.1397589 11.023198 0.74831337 9.1351259 0.74831337 6.7898648 C 0.74831337 4.9921363 -0.36093598 3.4629398 -1.9352438 2.846953 L -6.8672425 -0.44121837 A 1.0583349 1.0583349 0 0 0 -7.3865906 -0.61640148 z " /><path
+           id="rect1522-4"
+           style="fill:url(#linearGradient5591);stroke:none;stroke-width:1.07642;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+           d="M -7.4403341 -0.35336844 A 0.79374999 0.79374999 0 0 0 -8.1131612 9.8361198e-05 A 0.79374999 0.79374999 0 0 0 -7.8945699 1.0997728 L -5.3143657 2.8200813 L -10.363153 2.8200813 A 0.79374999 0.79374999 0 0 0 -11.158453 3.6153816 A 0.79374999 0.79374999 0 0 0 -10.363153 4.408098 L -6.8057475 4.408098 L -10.33008 7.2285977 A 0.79374999 0.79374999 0 0 0 -10.455137 8.3437751 A 0.79374999 0.79374999 0 0 0 -9.3399597 8.4688321 L -7.4501526 6.9572964 C -7.3629028 9.0776417 -5.6275521 10.758615 -3.48502 10.758615 C -1.2863355 10.758615 0.48373003 8.9885493 0.48373003 6.7898648 C 0.48373003 5.0952746 -0.56792025 3.6553612 -2.0566834 3.0841478 L -7.0134868 -0.22056 A 0.79374999 0.79374999 0 0 0 -7.4403341 -0.35336844 z " /><g
+           inkscape:label="Capa 1"
+           id="layer1-5-7"
+           transform="translate(-4.8668478,11.287523)"><path
+             style="fill:#b3c9d5;fill-opacity:1;stroke:none;stroke-width:0.418434;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1.4021799,-7.6523053 c 1.7589511,0 3.1750008,1.4160501 3.1750008,3.175 0,1.7589501 -1.4160497,3.1749998 -3.1750008,3.1749998 -1.75894968,0 -3.1749992,-1.4160497 -3.1749992,-3.1749998 0,-1.7589499 1.41604952,-3.175 3.1749992,-3.175 z"
+             id="rect903-3"
+             inkscape:connector-curvature="0" /><path
+             style="fill:url(#linearGradient4893);fill-opacity:1;stroke:none;stroke-width:0.383565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1.381827,-7.4080746 c 1.6123722,0 2.9104175,1.2980457 2.9104175,2.9104164 0,1.6123707 -1.2980453,2.9104165 -2.9104175,2.9104165 -1.61237025,0 -2.9104158,-1.2980458 -2.9104158,-2.9104165 0,-1.6123707 1.29804555,-2.9104164 2.9104158,-2.9104164 z"
+             id="rect903-2-0"
+             inkscape:connector-curvature="0" /><path
+             id="rect1902-7"
+             d="m 1.3818275,-6.349742 c 1.0260541,0 1.8520834,0.8260291 1.8520834,1.8520833 0,1.0260541 -0.8260293,1.8520832 -1.8520834,1.8520832 -1.02605417,0 -1.85208327,-0.8260291 -1.85208327,-1.8520832 0,-1.0260542 0.8260291,-1.8520833 1.85208327,-1.8520833 z"
+             style="fill:#0c63cc;fill-opacity:1;stroke:none;stroke-width:0.823146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" /><path
+             id="rect1906-8"
+             d="m 1.3818278,-6.0851586 c 0.879475,0 1.5874998,0.708025 1.5874998,1.5875002 0,0.879475 -0.7080248,1.5875002 -1.5874998,1.5875002 -0.87947517,0 -1.58750017,-0.7080252 -1.58750017,-1.5875002 0,-0.8794752 0.708025,-1.5875002 1.58750017,-1.5875002 z"
+             style="fill:url(#linearGradient2953);fill-opacity:1;stroke:none;stroke-width:0.793748;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:connector-curvature="0" /></g></g></g></g></svg>

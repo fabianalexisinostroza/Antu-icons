@@ -1,0 +1,21 @@
+<svg
+    height="22"
+    viewBox="0 0 22 22"
+    width="22" 
+    xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#36404d;
+      }
+      </style>
+    </defs>
+    <path 
+        d="m10.984378 294.17921c-.259718.004-.507631.10921-.691258.29297l-6.998506 7c-.6294196.62999-.1835648 1.70668.7068801 1.70703h.9997865v6c0 .554.4459069 1 .9997866 1h9.9978658c.55388 0 .999786-.446.999786-1v-6h .999787c.890445-.00035 1.3363-1.07704.70688-1.70703l-1.706667-1.70703v-3.58594c0-.554-.445906-1-.999786-1s-.999787.446-.999787 1v1.58594l-3.292266-3.29297c-.191282-.19141-.451956-.29711-.722502-.29297z" 
+        fill="currentColor"
+        transform="translate(0 -291.17915)"
+        style="fill:currentColor;fill-opacity:1;stroke:none"
+        class="ColorScheme-Text"/>
+</svg>

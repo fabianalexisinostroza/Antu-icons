@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="apple.svg"
+   inkscape:export-filename="/home/fabian/os_mac.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientTransform="matrix(3.7795275,0,0,3.7795275,-27.743682,-849.68691)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient2126"
+       id="linearGradient4581"
+       x1="32.740517"
+       y1="307.0058"
+       x2="32.740517"
+       y2="277.37247"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4582">
+      <stop
+         style="stop-color:#e3e3e3;stop-opacity:1"
+         offset="0"
+         id="stop4578" />
+      <stop
+         style="stop-color:#fcfcfc;stop-opacity:1"
+         offset="1"
+         id="stop4580" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2126"
+       inkscape:collect="always">
+      <stop
+         id="stop2122"
+         offset="0"
+         style="stop-color:#475057;stop-opacity:1;" />
+      <stop
+         id="stop2124"
+         offset="1"
+         style="stop-color:#5e6a73;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4582"
+       id="linearGradient886"
+       x1="64"
+       y1="278.64999"
+       x2="64"
+       y2="210.64999"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="72.137238"
+     inkscape:cy="51.658943"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1870"
+     inkscape:window-height="1141"
+     inkscape:window-x="50"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-186.64999)">
+    <g
+       id="g1525"
+       transform="translate(-32,-4)">
+      <path
+         style="opacity:1;fill:#343b40;fill-opacity:1;stroke:none;stroke-width:0.18711726;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.000003,191.64999 c 34.901997,0 62.999997,28.09799 62.999997,63 0,34.90197 -28.098,63 -62.999997,63 -34.902002,0 -63.000003,-28.09803 -63.000003,-63 0,-34.90201 28.098001,-63 63.000003,-63 z"
+         id="rect4500"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:url(#linearGradient4581);fill-opacity:1.0;stroke:none;stroke-width:0.18414716;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.000003,192.64998 c 34.347997,0 61.999997,27.652 61.999997,62.00001 0,34.348 -27.652,62.00001 -61.999997,62.00001 -34.348002,0 -62.000005,-27.65201 -62.000005,-62.00001 0,-34.34801 27.652003,-62.00001 62.000005,-62.00001 z"
+         id="rect4500-3"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="overflow:visible"
+       id="g845"
+       transform="matrix(0.12771482,0,0,0.12771482,32.552891,213.53416)">
+      <g
+         transform="matrix(0.9869271,0,0,0.99106002,3.5008005,0.90716963)"
+         id="g3" />
+    </g>
+    <path
+       id="path833-3"
+       d="m 91.375994,269.75986 c -1.08886,2.51547 -2.37771,4.83096 -3.871,6.95978 -2.03549,2.90214 -3.7021,4.91097 -4.98651,6.02649 -1.99105,1.83106 -4.12432,2.76881 -6.40869,2.82214 -1.63996,0 -3.61767,-0.46665 -5.91983,-1.4133 -2.3097,-0.94219 -4.43231,-1.40884 -6.37313,-1.40884 -2.03551,0 -4.218547,0.46665 -6.553589,1.40884 -2.338601,0.94665 -4.222544,1.43996 -5.662945,1.48885 -2.1906,0.0933 -4.374083,-0.87109 -6.553574,-2.89769 -1.391071,-1.2133 -3.131025,-3.29323 -5.215403,-6.23981 -2.236373,-3.14658 -4.074985,-6.79535 -5.515386,-10.95523 -1.542622,-4.4932 -2.315933,-8.84418 -2.315933,-13.0565 0,-4.82518 1.042632,-8.98683 3.131013,-12.47429 1.641292,-2.80124 3.824774,-5.01095 6.557586,-6.63313 2.732802,-1.62217 5.685604,-2.44882 8.865505,-2.5017 1.739953,0 4.021664,0.53821 6.857127,1.59595 2.827469,1.0613 4.642969,1.59951 5.438949,1.59951 0.59509,0 2.61193,-0.62932 6.03093,-1.88394 3.23324,-1.16352 5.96204,-1.64529 8.19753,-1.45551 6.0576,0.48887 10.60857,2.8768 13.63515,7.17889 -5.41761,3.28256 -8.09754,7.88021 -8.0442,13.77825 0.0489,4.59409 1.7155,8.41708 4.99095,11.45254 1.48441,1.40885 3.14214,2.49771 4.98653,3.27102 -0.39999,1.15996 -0.8222,2.27104 -1.27108,3.33768 z m -13.89291,-54.66947 c 0,3.60082 -1.31552,6.9629 -3.93767,10.07481 -3.16434,3.69944 -6.99178,5.83715 -11.14233,5.49983 -0.0529,-0.43199 -0.0835,-0.88664 -0.0835,-1.36441 0,-3.45678 1.50485,-7.15622 4.17721,-10.18103 1.33418,-1.5315 3.03102,-2.80493 5.08873,-3.82077 2.05328,-1.00068 3.99544,-1.55408 5.82206,-1.64883 0.0534,0.48136 0.0756,0.96276 0.0756,1.44035 z"
+       inkscape:connector-curvature="0"
+       style="fill:#343b40;fill-opacity:1;stroke-width:0.44443107" />
+    <path
+       id="path833"
+       d="m 91.375992,268.75986 c -1.088857,2.51547 -2.377708,4.83096 -3.870999,6.95978 -2.035491,2.90214 -3.702107,4.91097 -4.986515,6.02649 -1.991047,1.83106 -4.124315,2.76881 -6.40869,2.82214 -1.639954,0 -3.617671,-0.46665 -5.91983,-1.4133 -2.309698,-0.94219 -4.432311,-1.40884 -6.373133,-1.40884 -2.035501,0 -4.218542,0.46665 -6.553584,1.40884 -2.338601,0.94665 -4.222544,1.43996 -5.662945,1.48885 -2.1906,0.0933 -4.374083,-0.87109 -6.553574,-2.89769 -1.391071,-1.2133 -3.131025,-3.29323 -5.215403,-6.23981 -2.236373,-3.14658 -4.074985,-6.79535 -5.515386,-10.95523 C 32.773311,260.05789 32,255.70691 32,251.49459 c 0,-4.82518 1.042632,-8.98683 3.131013,-12.47429 1.641292,-2.80124 3.824774,-5.01095 6.557586,-6.63313 2.732802,-1.62217 5.685604,-2.44882 8.865505,-2.5017 1.739953,0 4.021664,0.53821 6.857127,1.59595 2.827471,1.0613 4.642972,1.59951 5.438953,1.59951 0.59509,0 2.611924,-0.62932 6.030927,-1.88394 3.233242,-1.16352 5.962043,-1.64529 8.19753,-1.45551 6.057597,0.48887 10.608574,2.8768 13.635147,7.17889 -5.41761,3.28256 -8.097533,7.88021 -8.044201,13.77825 0.04886,4.59409 1.715502,8.41708 4.990958,11.45254 1.484404,1.40885 3.142132,2.49771 4.986525,3.27102 -0.39999,1.15996 -0.822199,2.27104 -1.271078,3.33768 z M 77.483075,214.09039 c 0,3.60082 -1.315512,6.9629 -3.93766,10.07481 -3.164349,3.69944 -6.991787,5.83715 -11.142331,5.49983 -0.05287,-0.43199 -0.08352,-0.88664 -0.08352,-1.36441 0,-3.45678 1.504842,-7.15622 4.177204,-10.18103 1.334181,-1.5315 3.031026,-2.80493 5.088735,-3.82077 2.053276,-1.00068 3.995435,-1.55408 5.822055,-1.64883 0.05338,0.48136 0.0756,0.96276 0.0756,1.44035 z"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.44443107;fill-opacity:1;fill:url(#linearGradient886)" />
+  </g>
+</svg>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="weather-overcast.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="c-4"
+       gradientUnits="userSpaceOnUse"
+       x1="-83"
+       x2="-110"
+       y1="400.64999"
+       y2="372.64999"
+       gradientTransform="translate(28,-86)">
+      <stop
+         offset="0"
+         stop-color="#4c7080"
+         id="stop15-2" />
+      <stop
+         offset="1"
+         stop-color="#263740"
+         id="stop17-74" />
+    </linearGradient>
+    <linearGradient
+       id="a-03"
+       gradientUnits="userSpaceOnUse"
+       x1="-83"
+       x2="-109"
+       y1="399.64996"
+       y2="373.65002"
+       gradientTransform="translate(28,-86)">
+      <stop
+         offset="0"
+         stop-color="#6899ae"
+         id="stop5-2" />
+      <stop
+         offset="1"
+         stop-color="#3d5866"
+         id="stop7-8" />
+    </linearGradient>
+    <linearGradient
+       id="b-0"
+       gradientUnits="userSpaceOnUse"
+       x1="-96.000137"
+       x2="-96"
+       y1="391.6499"
+       y2="381.64999"
+       gradientTransform="translate(28,-86)">
+      <stop
+         offset="0"
+         stop-color="#c2ebfd"
+         id="stop10-3" />
+      <stop
+         offset="1"
+         stop-color="#f2fafe"
+         id="stop12-4" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="d-037"
+       height="1.12"
+       width="1.08"
+       x="-0.039999999"
+       y="-0.059999999">
+      <feGaussianBlur
+         stdDeviation=".30000018"
+         id="feGaussianBlur20-0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="-64.640476"
+     inkscape:cy="0.91466187"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g13781"
+       transform="translate(84,-2)">
+      <path
+         id="path24-2"
+         d="m -81,285.64999 26,0 c 1.108,0 2,0.89201 2,2.00001 l 0,25.99998 c 0,1.108 -0.892,2.00001 -2,2.00001 l -26,0 c -1.108,0 -2,-0.89201 -2,-2.00001 L -83,287.65 c 0,-1.108 0.892,-2.00001 2,-2.00001 z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#c-4)" />
+      <path
+         id="path26-7"
+         d="m -81,286.65002 26,0 c 0.554,0 1,0.44598 1,0.99998 l 0,26.00001 c 0,0.55397 -0.446,0.99999 -1,0.99999 l -26,0 c -0.554,0 -1,-0.44602 -1,-0.99999 L -82,287.65 c 0,-0.554 0.446,-0.99998 1,-0.99998 z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#a-03)" />
+      <path
+         id="path28"
+         d="m -66.50014,294.64998 c -2.10069,0 -3.83934,1.43302 -4.33985,3.37309 -0.3273,-0.23357 -0.72565,-0.37304 -1.16015,-0.37304 -1.10798,0 -2,0.89204 -2,2.00002 0,0.0151 0.005,0.034 0.006,0.0488 -1.7011,0.24075 -3.00586,1.68155 -3.00586,3.45116 0,1.93901 1.561,3.49999 3.5,3.49999 l 11,0 c 1.939,0 3.5,-1.56098 3.5,-3.49999 0,-1.78632 -1.32996,-3.23535 -3.05469,-3.45506 0.0219,-0.18066 0.0547,-0.35792 0.0547,-0.54493 0,-2.49297 -2.00701,-4.50002 -4.5,-4.50002 z"
+         inkscape:connector-curvature="0"
+         style="fill:#2d2d2d;fill-opacity:0.53157899;filter:url(#d-037)" />
+      <path
+         id="path30-4"
+         d="m -66.50014,294.64998 c -2.10069,0 -3.83934,1.43302 -4.33985,3.37309 -0.3273,-0.23357 -0.72565,-0.37304 -1.16015,-0.37304 -1.10798,0 -2,0.89204 -2,2.00002 0,0.0151 0.005,0.034 0.006,0.0488 -1.7011,0.24075 -3.00586,1.68155 -3.00586,3.45116 0,1.93901 1.561,3.49999 3.5,3.49999 l 11,0 c 1.939,0 3.5,-1.56098 3.5,-3.49999 0,-1.78632 -1.32997,-3.23535 -3.05469,-3.45506 0.0219,-0.18066 0.0547,-0.35792 0.0547,-0.54493 0,-2.49297 -2.00701,-4.50002 -4.5,-4.50002 z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#b-0)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="yast-online-update.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-60"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-23"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-26">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="20.035594"
+     inkscape:cy="30.463148"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="g1653"
+       transform="translate(36,12.000005)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4544-5-5-9-9"
+         d="m -12.000012,256.65 h 2.5e-5 C 0.1880083,256.65 10,266.46199 10,278.64999 10,290.838 0.1880083,300.64997 -11.999987,300.64997 h -2.5e-5 c -12.187997,0 -21.999989,-9.81197 -21.999989,-21.99998 0,-12.188 9.811992,-21.99999 21.999989,-21.99999 z"
+         style="opacity:1;fill:#007042;fill-opacity:1;stroke:none;stroke-width:0.3142857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4544-5-5-9"
+         d="m -12,257.65 h 2.3e-5 c 11.6339973,0 20.9999883,9.36599 20.9999883,20.99999 0,11.63401 -9.365991,20.99999 -20.9999883,20.99999 H -12 c -11.633997,0 -20.999989,-9.36598 -20.999989,-20.99999 0,-11.634 9.365992,-20.99999 20.999989,-20.99999 z"
+         style="opacity:1;fill:#24b17a;fill-opacity:1;stroke:none;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path1818"
+         d="m -10.53125,257.79844 c -0.437241,-0.0305 -0.854441,-0.12728 -1.298828,-0.13086 -1.08672,1.02134 -2.302175,2.03916 -3.203125,3.06445 -0.147899,-0.0485 -0.302261,-0.082 -0.466797,-0.082 -0.831,0 -1.5,0.669 -1.5,1.5 0,0.27201 0.07755,0.52267 0.203125,0.74219 -1.981283,2.61538 -3.389643,5.22365 -4.335937,7.79492 -0.120598,-0.0177 -0.241514,-0.0371 -0.367188,-0.0371 -0.859113,0 -1.612841,0.42958 -2.0625,1.08594 -2.012228,-0.9613 -4.116397,-2.41099 -6.257812,-4.11328 -0.177021,0.28626 -0.317048,0.59534 -0.480469,0.89062 2.161024,1.69996 4.294307,3.15671 6.351562,4.13281 -0.03295,0.16246 -0.05078,0.33145 -0.05078,0.50391 0,1.0719 0.671241,1.97529 1.615234,2.33203 -0.352558,2.26018 -0.373746,4.47136 -0.111328,6.60352 0.128814,1.04661 0.322449,2.07461 0.572266,3.08008 -2.435354,1.15091 -5.008286,2.89209 -7.65625,4.95507 0.05932,0.091 0.09557,0.19714 0.15625,0.28711 0.125947,0.18674 0.295995,0.33717 0.427734,0.51953 2.552999,-1.9929 5.022901,-3.67368 7.34375,-4.78711 0.718809,2.49228 1.779472,4.83721 3.046875,7 -0.243303,0.26644 -0.394531,0.61886 -0.394531,1.00977 0,0.831 0.669,1.5 1.5,1.5 0.164536,0 0.318898,-0.0335 0.466797,-0.082 0.989826,1.41114 2.062063,2.69361 3.162109,3.89453 0.589145,0.0524 1.157311,0.1726 1.759766,0.17578 -1.422769,-1.44171 -2.867622,-2.8836 -4.125,-4.68359 0.147934,-0.23256 0.236328,-0.5075 0.236328,-0.80469 0,-0.831 -0.669,-1.5 -1.5,-1.5 -0.07237,0 -0.141361,0.0117 -0.210938,0.0215 -1.264593,-2.1518 -2.319775,-4.48231 -3.019531,-6.95312 2.742177,-1.20216 5.33318,-1.8229 7.806641,-1.98243 0.263226,1.09929 1.241601,1.91407 2.423828,1.91407 1.0827923,0 1.9928363,-0.68531 2.3417973,-1.64453 1.776523,0.32206 3.501514,0.87582 5.185547,1.63086 -0.921207,3.90457 -0.414912,8.05973 0.976562,11.38672 0.295308,-0.16066 0.600282,-0.30432 0.886719,-0.47852 -1.243103,-3.05438 -1.72809,-6.89681 -0.941406,-10.46875 2.44129,1.20717 4.783896,2.91007 7.095703,4.79297 0.116232,-0.16214 0.267234,-0.29537 0.378906,-0.46094 0.07544,-0.11185 0.120033,-0.24403 0.19336,-0.35742 -2.396088,-1.94724 -4.837932,-3.71539 -7.41211,-4.96484 0.498315,-1.70851 1.302345,-3.32831 2.464844,-4.75586 0.401874,0.19922 0.849513,0.32031 1.330078,0.32031 0.155464,0 0.304161,-0.0223 0.453125,-0.0449 0.005,0.007 0.0087,0.0145 0.01367,0.0215 1.176042,1.64645 3.131284,3.00485 5.519531,4.17188 0.09601,-0.31375 0.207478,-0.61955 0.289063,-0.93946 -2.075359,-1.03606 -3.77944,-2.2104 -4.824219,-3.5957 0.921015,-0.51099 1.54883,-1.48129 1.54883,-2.61328 0,-0.24447 -0.03712,-0.47785 -0.0918,-0.70508 1.097265,-0.56026 2.394197,-0.97441 3.789063,-1.3125 -0.04696,-0.32606 -0.03795,-0.66928 -0.09961,-0.99023 -1.490471,0.35669 -2.882174,0.79888 -4.068359,1.40429 -0.530905,-0.8382 -1.459575,-1.39648 -2.529294,-1.39648 -0.226439,0 -0.444404,0.0291 -0.65625,0.0762 -0.05602,-0.52212 -0.09375,-1.04762 -0.09375,-1.57617 0,-3.30379 0.997037,-6.37632 1.958984,-8.94531 -0.124544,-0.13115 -0.217823,-0.29009 -0.345703,-0.41797 -0.209362,-0.20936 -0.467485,-0.36409 -0.685547,-0.56445 -2.361188,4.35526 -6.350386,8.34128 -11.576172,9.94921 -2.8774093,0.88536 -6.1139923,1.05571 -9.6230463,0.20118 0.0066,-0.0744 0.02148,-0.14649 0.02148,-0.22266 0,-0.91094 -0.486676,-1.69785 -1.210938,-2.13477 0.902669,-2.45582 2.25062,-4.95512 4.15625,-7.47265 0.171928,0.0683 0.357842,0.10742 0.554688,0.10742 0.831,0 1.5,-0.669 1.5,-1.5 0,-0.30133 -0.09043,-0.5799 -0.242188,-0.81445 1.042132,-1.1779 2.408735,-2.3576 3.710938,-3.53711 z m 11.8164063,8.83008 c -0.582158,2.01958 -1.033203,4.25457 -1.033203,6.52148 0,0.65752 0.05528,1.31653 0.140625,1.97266 -0.836151,0.53131 -1.392578,1.45918 -1.392578,2.52734 0,0.82702 0.331468,1.5736 0.869141,2.11523 -1.201593,1.47884 -2.04748,3.14635 -2.578125,4.89454 -1.715342,-0.75668 -3.479602,-1.31642 -5.304688,-1.64454 C -8.0845617,281.69465 -9.1611267,280.65 -10.5,280.65 c -1.243972,0 -2.262905,0.90118 -2.458984,2.08789 -2.559979,0.1646 -5.22921,0.80068 -8.03125,2.01172 -0.220903,-0.913 -0.397394,-1.84039 -0.513672,-2.78516 -0.25135,-2.04222 -0.228564,-4.15866 0.103515,-6.32422 0.916076,-0.0363 1.695087,-0.55919 2.09961,-1.32031 3.698792,0.91209 7.13752,0.75006 10.1972653,-0.1914 4.319842,-1.32919 7.864243,-4.15051 10.388672,-7.5 z"
+         style="opacity:1;vector-effect:none;fill:#dcf1e9;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4544"
+         d="m -12.000014,265.64999 h 2.8e-5 c 7.2019863,0 12.9999863,5.79799 12.9999863,12.99999 0,7.20198 -5.798,12.99998 -12.9999863,12.99998 h -2.8e-5 c -7.202,0 -12.999986,-5.798 -12.999986,-12.99998 0,-7.202 5.797986,-12.99999 12.999986,-12.99999 z"
+         style="opacity:0.98999999;fill:#007042;fill-opacity:1;stroke:none;stroke-width:0.17727272;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#dcf1e9;fill-opacity:1;stroke:none;stroke-width:1.81422937;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -12,290.64998 c -6.648,0 -12,-5.35199 -12,-12 0,-6.64801 5.352,-12 12,-12 6.6480003,0 12.0000003,5.35199 12.0000003,12 0,6.64801 -5.352,12 -12.0000003,12 z"
+         id="path833" />
+      <path
+         style="opacity:1;fill:#007042;fill-opacity:1;stroke:none;stroke-width:1.81422937;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -12,284.64998 c 1.108,0 2.0000003,-0.892 2.0000003,-2 v -4 h 2 a 1.0001,1.0001 0 0 0 0.707031,-1.70702 l -4.0000003,-4 a 1.0001,1.0001 0 0 0 -1.414062,0 l -4,4 A 1.0001,1.0001 0 0 0 -16,278.64998 h 2 v 4 c 0,1.108 0.892,2 2,2 z"
+         id="rect5344-1" />
+    </g>
+  </g>
+</svg>

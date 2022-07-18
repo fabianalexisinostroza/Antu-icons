@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666662 8.4666664"
+   version="1.1"
+   id="svg1399"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="maui-station.svg">
+  <defs
+     id="defs1393">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient836">
+      <stop
+         style="stop-color:#34aefa;stop-opacity:1"
+         offset="0"
+         id="stop832" />
+      <stop
+         style="stop-color:#0f75ec;stop-opacity:1"
+         offset="1"
+         id="stop834" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient838"
+       x1="-4.3863583"
+       y1="298.57025"
+       x2="-4.3166051"
+       y2="292.03885"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="21.928942"
+     inkscape:cy="13.159938"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1421"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1396">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-288.53338)">
+    <g
+       id="g1421"
+       transform="translate(8.8103236,-2.4626718)">
+      <path
+         id="path7"
+         d="m -8.5457404,291.7898 h 7.93749976 v 6.87917 H -8.5457404 Z"
+         style="fill:url(#linearGradient838);stroke-width:0.26458332;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path13"
+         d="m -8.5457404,291.52522 c -0.1465816,0 -0.2645832,0.118 -0.2645832,0.26458 v 6.87917 c 0,0.14658 0.1180016,0.26458 0.2645832,0.26458 h 7.93749976 c 0.1465818,0 0.2645833,-0.118 0.2645833,-0.26458 v -6.87917 c 0,-0.14658 -0.1180015,-0.26458 -0.2645833,-0.26458 z m 0.2645833,0.52917 h 7.40833316 v 6.35 H -8.2811571 Z"
+         style="fill:#030303;stroke-width:0.26458332"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0.21904762;stroke:none;stroke-width:0.19999999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;paint-order:stroke fill markers"
+         d="m -8.2811571,292.84813 v 1.05834 h 7.40833316 v -1.05834 z m 0,1.85209 v 1.05833 h 7.40833316 v -1.05833 z m 0,1.85208 v 1.05833 h 7.40833316 v -1.05833 z"
+         id="rect6299-1-1-0-5" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;vector-effect:none;fill:#0f1e2e;fill-opacity:1;stroke:none;stroke-width:0.19999999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;paint-order:stroke fill markers"
+         d="m -7.487407,292.58355 v 0.26459 h -0.2645833 v 0.26458 h 0.2645833 v 0.52917 h -0.2645833 v 0.26458 h 0.2645833 v 0.26458 h 0.2645834 v -0.26458 h 0.5291666 v 0.26458 h 0.2645833 v -0.26458 h 0.2645832 v -0.26458 h -0.2645832 v -0.52917 h 0.2645832 v -0.26458 h -0.2645832 v -0.26459 H -6.693657 v 0.26459 h -0.5291666 v -0.26459 z m 0.2645834,0.52917 h 0.5291666 v 0.52917 h -0.5291666 z"
+         id="rect6570-7" />
+    </g>
+  </g>
+</svg>
