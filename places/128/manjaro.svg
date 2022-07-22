@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 128 128"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="manjaro.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="manjaro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
@@ -53,15 +53,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="17.999956"
-     inkscape:cy="75.844872"
+     inkscape:zoom="5.6"
+     inkscape:cx="31.875"
+     inkscape:cy="78.125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1360"
-     inkscape:window-height="697"
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +69,10 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:bbox-nodes="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -106,15 +109,21 @@
          id="rect4500-3"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       style="opacity:1;fill:#008c52;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 35,219.64999 0,27 18,0 0,-9 20,0 0,-18 -20,0 -18,0 z m 40,0 0,64 18,0 0,-64 -18,0 z m -20,20 0,44 18,0 0,-44 -18,0 z m -20,9 0,35 18,0 0,-35 -18,0 z"
-       id="rect4194"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;fill:#edfaf5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 35,218.64999 0,27 18,0 0,-9 20,0 0,-18 -20,0 -18,0 z m 40,0 0,64 18,0 0,-64 -18,0 z m -20,20 0,44 18,0 0,-44 -18,0 z m -20,9 0,35 18,0 0,-35 -18,0 z"
-       id="rect4194-7"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g289"
+       transform="translate(0,1)">
+      <path
+         style="opacity:1;fill:#008c52;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 35,219.64999 v 27 h 18 v -9 h 20 v -18 H 53 Z m 40,0 v 62 h 18 v -62 z m -20,20 v 42 h 18 v -42 z m -20,9 v 33 h 18 v -33 z"
+         id="rect4194"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      <path
+         style="opacity:1;fill:#edfaf5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 35,218.64999 v 27 h 18 v -9 h 20 v -18 H 53 Z m 40,0 v 62 h 18 v -62 z m -20,20 v 42 h 18 v -42 z m -20,9 v 33 h 18 v -33 z"
+         id="rect4194-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    </g>
   </g>
 </svg>

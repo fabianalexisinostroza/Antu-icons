@@ -9,6 +9,7 @@
    id="svg8"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="folder-magenta.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,104 +17,86 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title7895">Antu icon Theme</title>
-  <defs
-     id="defs2">
-    <style
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title7895">Antu icon Theme</title><defs
+     id="defs2"><style
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        id="current-color-scheme-3"
        type="text/css">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        id="current-color-scheme-7"
        type="text/css">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        id="current-color-scheme-5"
        type="text/css">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        type="text/css"
        id="current-color-scheme-9">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        type="text/css"
        id="current-color-scheme-1">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        id="current-color-scheme-10"
        type="text/css">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        type="text/css"
        id="current-color-scheme-6">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        type="text/css"
        id="current-color-scheme-7-1">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <style
+      </style><style
        type="text/css"
        id="current-color-scheme-5-2">
       .ColorScheme-Text {
         color:#122036;
       }
-      </style>
-    <linearGradient
+      </style><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient68378"
        id="linearGradient52250"
        gradientUnits="userSpaceOnUse"
-       x1="3.968751"
-       y1="6.6145825"
-       x2="3.968751"
-       y2="-1.0583341"
-       gradientTransform="matrix(3.7795276,0,0,3.7795276,47.499996,348.64999)" />
-    <linearGradient
+       x1="3.7041674"
+       y1="13.229162"
+       x2="3.7041674"
+       y2="-0.52917063"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,47.499996,348.64999)" /><linearGradient
        inkscape:collect="always"
-       id="linearGradient68378">
-      <stop
-         style="stop-color:#e50086;stop-opacity:1;"
+       id="linearGradient68378"><stop
+         style="stop-color:#f772bf;stop-opacity:1;"
          offset="0"
-         id="stop68374" />
-      <stop
-         style="stop-color:#b8006c;stop-opacity:1;"
+         id="stop68374" /><stop
+         style="stop-color:#f744ad;stop-opacity:1;"
          offset="1"
-         id="stop68376" />
-    </linearGradient>
-    <linearGradient
+         id="stop68376" /></linearGradient><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient71282"
        id="linearGradient52252"
@@ -122,36 +105,90 @@
        y1="31.749998"
        x2="14.552084"
        y2="3.968749"
-       gradientTransform="matrix(3.7795276,0,0,3.7795276,47.499996,348.64999)" />
-    <linearGradient
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,47.499996,348.64999)" /><linearGradient
        inkscape:collect="always"
-       id="linearGradient71282">
-      <stop
-         style="stop-color:#d10e7e;stop-opacity:1;"
+       id="linearGradient71282"><stop
+         style="stop-color:#f544ab;stop-opacity:1;"
          offset="0"
-         id="stop71278" />
-      <stop
-         style="stop-color:#d33a92;stop-opacity:1;"
+         id="stop71278" /><stop
+         style="stop-color:#f767bb;stop-opacity:1;"
          offset="1"
-         id="stop71280" />
-    </linearGradient>
-  </defs>
-  <sodipodi:namedview
+         id="stop71280" /></linearGradient><style
+       type="text/css"
+       id="current-color-scheme-67">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-3-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-7-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-5-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-9-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-1-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       id="current-color-scheme-10-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-6-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-7-1-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style><style
+       type="text/css"
+       id="current-color-scheme-5-2-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style></defs><sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-62.5"
-     inkscape:cy="66.75"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-2.032932"
+     inkscape:cy="27.84233"
      inkscape:document-units="px"
      inkscape:current-layer="g5154"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="2160"
-     inkscape:window-height="1337"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -160,56 +197,34 @@
      guidetolerance="10"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
-    <inkscape:grid
+     inkscape:deskcolor="#d1d1d1"><inkscape:grid
        type="xygrid"
        id="grid7897"
-       empspacing="4" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Antu icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
+       empspacing="4" /></sodipodi:namedview><metadata
+     id="metadata5"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Antu icon Theme</dc:title></cc:Work></rdf:RDF></metadata><g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-186.64999)">
-    <g
+     transform="translate(0,-186.64999)"><g
        id="g5154"
-       transform="translate(64.000001,-12.000005)">
-      <g
+       transform="translate(64.000001,-12.000005)"><g
          id="g72314"
-         transform="translate(-101.5,-139.99998)">
-        <path
+         transform="translate(-101.5,-139.99998)"><path
            d="m 50.500003,343.64998 c -6.630696,0 -11.999999,5.36932 -11.999999,12.00001 v 94 c 0,6.6307 5.369303,12 11.999999,12 H 152.49999 c 6.63069,0 12,-5.3693 12,-12 v -78 c 0,-6.63068 -5.36931,-12 -12,-12 h -48.99998 c -1.95371,0 -3.5741,-0.84528 -5.205083,-2.25586 -1.630987,-1.41058 -3.205028,-3.37474 -4.9043,-5.38868 -3.398543,-4.0279 -7.446179,-8.35547 -13.890622,-8.35547 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8a0051;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#a73a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
            id="path1242-68"
-           sodipodi:nodetypes="sssssssssssss" />
-        <path
+           sodipodi:nodetypes="sssssssssssss" /><path
            id="rect1149-4-0-9"
            style="fill:url(#linearGradient52250);fill-opacity:1;stroke-width:0.999999"
            d="m 50.500003,344.64999 29.00001,10e-6 c 12,0 15,16.00001 23.999997,16.00001 l 48.99999,-2e-5 c 6.094,0 10.99999,4.906 10.99999,10.99996 v 78.00004 c 0,6.094 -4.906,11 -10.99999,11 H 50.500003 c -6.093993,0 -10.99999,-4.906 -10.99999,-11 v -94.00004 c 0,-6.09398 4.905997,-10.99996 10.99999,-10.99996 z"
-           sodipodi:nodetypes="sccssssssss" />
-        <path
+           sodipodi:nodetypes="sccssssssss" /><path
            d="m 152.5,359.64997 c 6.63069,0 11.99999,5.36932 11.99999,12 v 79.00004 c 0,6.6307 -5.3693,12.00001 -11.99999,12.00001 H 50.500005 c -6.63069,0 -12.000001,-5.36931 -12.000001,-12.00001 V 387.65 c 0,-6.63069 5.369311,-12.00001 12.000001,-12.00001 h 30.999986 c 1.953706,0 3.574099,-0.84528 5.205083,-2.25586 1.630983,-1.41058 3.205024,-3.37474 4.904296,-5.38868 3.398544,-4.0279 7.446183,-8.35546 13.89063,-8.35546 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8a0051;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#a73a7a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
            id="path1242-2-2"
-           sodipodi:nodetypes="sssssssssssss" />
-        <path
+           sodipodi:nodetypes="sssssssssssss" /><path
            id="rect1149-4-0-6-66"
            style="fill:url(#linearGradient52252);fill-opacity:1;stroke-width:0.999999"
            d="m 152.5,360.64997 -47.00001,2e-5 c -12.000002,0 -15.000002,16 -24.000006,16 l -30.999989,-2e-5 c -6.093997,0 -10.99999,4.906 -10.99999,10.99997 v 63.00007 c 0,6.094 4.906001,11 10.99999,11 H 152.5 c 6.09399,0 10.99999,-4.906 10.99999,-11 v -79.00008 c 0,-6.09396 -4.906,-10.99996 -10.99999,-10.99996 z"
-           sodipodi:nodetypes="sccssssssss" />
-      </g>
-    </g>
-  </g>
-</svg>
+           sodipodi:nodetypes="sccssssssss" /></g></g></g></svg>
