@@ -2,25 +2,37 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="folder-development.svg">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="folder-script.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title7895">Antu icon Theme</title>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1978">
+      <stop
+         style="stop-color:#c1f6f9;stop-opacity:1;"
+         offset="0"
+         id="stop1974" />
+      <stop
+         style="stop-color:#e4f9fb;stop-opacity:1;"
+         offset="1"
+         id="stop1976" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient10239">
@@ -89,16 +101,6 @@
        gradientTransform="translate(-6,-10)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4547"
-       id="linearGradient1119"
-       x1="16"
-       y1="26"
-       x2="16"
-       y2="15"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,281.64999)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient10239"
        id="linearGradient1160"
        x1="8"
@@ -115,6 +117,16 @@
        x2="22"
        y2="263.64999"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1978"
+       id="linearGradient1980"
+       x1="43"
+       y1="307.64999"
+       x2="43"
+       y2="295.64999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-3,1)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -123,21 +135,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999996"
-     inkscape:cx="85.628475"
-     inkscape:cy="128.73843"
+     inkscape:zoom="22.627416"
+     inkscape:cx="25.124389"
+     inkscape:cy="27.422486"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1360"
-     inkscape:window-height="711"
+     inkscape:window-width="2160"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid7897"
@@ -240,15 +255,17 @@
     <g
        id="g6719"
        transform="translate(0,-4.000005)" />
-    <path
-       style="opacity:0.98999999;vector-effect:none;fill:#3182d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 9,296.64999 c -0.553998,0 -1,0.446 -1,1 v 11 c 0,0.554 0.446002,1 1,1 h 13 c 0.553998,0 1,-0.446 1,-1 v -11 c 0,-0.554 -0.446002,-1 -1,-1 z m 2,2 h 1 v 1 h 1 v -1 h 1 v 1 h 1 v 1 h -1 v 1 h 1 v 1 h -1 v 1 h -1 v -1 h -1 v 1 h -1 v -1 h -1 v -1 h 1 v -1 h -1 v -1 h 1 z m 1,2 v 1 h 1 v -1 z m 4,2 h 4 v 1 h -4 z"
-       id="rect1101-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.98999999;vector-effect:none;fill:url(#linearGradient1119);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 9,295.64999 c -0.5539979,0 -1,0.446 -1,1 v 11 c 0,0.554 0.4460021,1 1,1 h 13 c 0.553998,0 1,-0.446 1,-1 v -11 c 0,-0.554 -0.446002,-1 -1,-1 z m 2,2 h 1 v 1 h 1 v -1 h 1 v 1 h 1 v 1 h -1 v 1 h 1 v 1 h -1 v 1 h -1 v -1 h -1 v 1 h -1 v -1 h -1 v -1 h 1 v -1 h -1 v -1 h 1 z m 1,2 v 1 h 1 v -1 z m 4,2 h 4 v 1 h -4 z"
-       id="rect1101"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g3943"
+       transform="translate(-24)">
+      <path
+         id="rect1101-5"
+         style="opacity:0.99;vector-effect:none;fill:#3282d9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 33,296.64999 c -0.553997,0 -1,0.44599 -1,0.99999 v 12 c 0,0.554 0.446003,1.00002 1,1.00002 h 14 c 0.553997,0 1,-0.44602 1,-1.00002 v -12 c 0,-0.554 -0.446003,-0.99999 -1,-0.99999 z m 4,2.00002 h 2 v 1.99997 h 2 v -1.99997 h 2 v 1.99997 h 2 v 2.00001 h -2 v 2.00002 h 2 v 1.99997 h -2 v 2.00001 h -2 v -2.00001 h -2 v 2.00001 h -2 v -2.00001 h -2 v -1.99997 h 2 v -2.00002 h -2 v -2.00001 h 2 z m 2,3.99998 v 2.00002 h 2 v -2.00002 z" />
+      <path
+         id="rect1101-5-6"
+         style="opacity:0.99;vector-effect:none;fill:url(#linearGradient1980);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 33,295.65 c -0.553997,0 -1,0.44599 -1,0.99999 v 12 c 0,0.554 0.446003,1.00002 1,1.00002 h 14 c 0.553997,0 1,-0.44602 1,-1.00002 v -12 c 0,-0.554 -0.446003,-0.99999 -1,-0.99999 z m 4,2.00002 h 2 v 1.99997 h 2 v -1.99997 h 2 v 1.99997 h 2 V 301.65 h -2 v 2.00002 h 2 v 1.99997 H 43 V 307.65 h -2 v -2.00001 H 39 V 307.65 h -2 v -2.00001 h -2 v -1.99997 h 2 V 301.65 h -2 v -2.00001 h 2 z m 2,3.99998 v 2.00002 h 2 V 301.65 Z" />
+    </g>
   </g>
 </svg>
